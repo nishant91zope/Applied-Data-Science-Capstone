@@ -1,0 +1,998 @@
+,City,City Latitude,City Longitude,Venue,Venue Latitude,Venue Longitude,Venue Category
+0,Montgomery,32.36,-86.28,Shashy's Bakery & Fine Foods,32.362289362974124,-86.28322586649156,Bakery
+1,Montgomery,32.36,-86.28,Martin's Restaurant,32.35726195699843,-86.2828618780418,Fried Chicken Joint
+2,Montgomery,32.36,-86.28,Subway,32.3575022,-86.2836637,Sandwich Place
+3,Montgomery,32.36,-86.28,Havana Dreamin',32.35815690288885,-86.28166001899751,Smoke Shop
+4,Montgomery,32.36,-86.28,Jimmy John's,32.358196658927795,-86.28298469462071,Sandwich Place
+5,Montgomery,32.36,-86.28,SONIC Drive In,32.3587569087165,-86.2827120628935,Fast Food Restaurant
+6,Montgomery,32.36,-86.28,Winn-Dixie,32.35798787234582,-86.28375089313198,Grocery Store
+7,Montgomery,32.36,-86.28,China Sea,32.357362,-86.283443,Chinese Restaurant
+8,Juneau,58.3,-134.42,Coppa,58.30165745753255,-134.42139398731672,Coffee Shop
+9,Juneau,58.3,-134.42,Sandpiper Cafe,58.30095417446164,-134.4159412344867,Breakfast Spot
+10,Juneau,58.3,-134.42,Seong's Sushi Bar & Chinese Take Out,58.30161828020241,-134.4213535028201,Sushi Restaurant
+11,Juneau,58.3,-134.42,Alaska State Museum,58.30014027236399,-134.41505312300103,History Museum
+12,Juneau,58.3,-134.42,Capital Brew,58.29984969270602,-134.42177785479836,Café
+13,Juneau,58.3,-134.42,Domino's Pizza,58.3003271,-134.4177274,Pizza Place
+14,Juneau,58.3,-134.42,Juneau Arts & Humanities Center,58.29964756965637,-134.413371,General Entertainment
+15,Juneau,58.3,-134.42,TK Maguire's,58.29941651777461,-134.41558931346555,American Restaurant
+16,Juneau,58.3,-134.42,Bullwinkle's Pizza Parlor,58.300404213179185,-134.41239309216004,Pizza Place
+17,Juneau,58.3,-134.42,Prospector Hotel,58.29955199065993,-134.41575263752492,Hotel
+18,Juneau,58.3,-134.42,Alaska Governor's Mansion,58.302652,-134.41495600000002,Historic Site
+19,Phoenix,33.45,-112.07,Herberger Theater Center,33.45057836465805,-112.07047567351984,Theater
+20,Phoenix,33.45,-112.07,Symphony Hall,33.4484100925743,-112.0707014440975,Opera House
+21,Phoenix,33.45,-112.07,Sheraton Grand Phoenix,33.4522663,-112.0703487,Hotel
+22,Phoenix,33.45,-112.07,The Kettle Black,33.448468259967434,-112.07245139944732,Pub
+23,Phoenix,33.45,-112.07,Downtown Salon Phoenix,33.45032260783594,-112.07254849526032,Salon / Barbershop
+24,Phoenix,33.45,-112.07,Hyatt Regency Phoenix,33.44997699283579,-112.07166536621344,Hotel
+25,Phoenix,33.45,-112.07,Elevate at Renaissance Phoenix Downtown Hotel,33.450169134521914,-112.07279919506524,Hotel Bar
+26,Phoenix,33.45,-112.07,Heritage and Science Park,33.449331061772,-112.06636897423789,Park
+27,Phoenix,33.45,-112.07,V's Barbershop,33.448075403490186,-112.07279500824622,Salon / Barbershop
+28,Phoenix,33.45,-112.07,Valley Bar,33.45011994068906,-112.07410303974542,Music Venue
+29,Phoenix,33.45,-112.07,Kaleidoscope Juice,33.44832001653133,-112.0725404836067,Juice Bar
+30,Phoenix,33.45,-112.07,Cornish Pasty Co,33.45022618478677,-112.07410878005035,Pub
+31,Phoenix,33.45,-112.07,Perry Monge Salon and Spa,33.4472430545142,-112.0708645973591,Salon / Barbershop
+32,Phoenix,33.45,-112.07,Hanny's,33.449054838755,-112.0730693665446,Lounge
+33,Phoenix,33.45,-112.07,Historic Heritage Square,33.44999219596337,-112.06604877105198,History Museum
+34,Phoenix,33.45,-112.07,Pizzeria Bianco,33.44926073344454,-112.06564709544182,Pizza Place
+35,Phoenix,33.45,-112.07,Kimpton Hotel Palomar Phoenix Cityscape,33.447423,-112.073284,Hotel
+36,Phoenix,33.45,-112.07,The Arrogant Butcher,33.447354225134795,-112.07263224789942,American Restaurant
+37,Phoenix,33.45,-112.07,The Westin Phoenix Downtown,33.451669015875815,-112.07302820878795,Hotel
+38,Phoenix,33.45,-112.07,Starbucks,33.45209,-112.0693,Coffee Shop
+39,Phoenix,33.45,-112.07,Bar Smith,33.44846801220561,-112.07179821535779,Bar
+40,Phoenix,33.45,-112.07,Compass Arizona Grill,33.44982001883171,-112.07175467196176,American Restaurant
+41,Phoenix,33.45,-112.07,The Whining Pig Downtown,33.44797496048332,-112.0712528276167,Beer Bar
+42,Phoenix,33.45,-112.07,Blaze Pizza,33.44840246916225,-112.07287967205048,Pizza Place
+43,Phoenix,33.45,-112.07,Arizona Science Center,33.448818733994756,-112.06612855195999,Science Museum
+44,Phoenix,33.45,-112.07,Province Urban Kitchen & Bar,33.45162983860172,-112.07346134068716,American Restaurant
+45,Phoenix,33.45,-112.07,Potbelly Sandwich Shop,33.44782391102811,-112.07276906245613,Sandwich Place
+46,Phoenix,33.45,-112.07,Pizza Studio - Cityscape,33.447972281212955,-112.07410333452935,Pizza Place
+47,Phoenix,33.45,-112.07,Talking Stick Resort Arena,33.44582588188001,-112.07120399752223,Basketball Stadium
+48,Phoenix,33.45,-112.07,Fry's Food and Drug,33.447343460324866,-112.07213302511389,Grocery Store
+49,Phoenix,33.45,-112.07,Lustre Rooftop Bar,33.447517,-112.072799,Cocktail Bar
+50,Phoenix,33.45,-112.07,Official Rainbows Festival,33.44938270251642,-112.06621170043945,General Entertainment
+51,Phoenix,33.45,-112.07,Arizona Center,33.45175961615872,-112.06939634780542,Shopping Mall
+52,Phoenix,33.45,-112.07,Bitter & Twisted Cocktail Parlour,33.4472043295837,-112.07389668587766,Cocktail Bar
+53,Phoenix,33.45,-112.07,Zookz,33.448046,-112.072302,Sandwich Place
+54,Phoenix,33.45,-112.07,Coney Island,33.44915979117025,-112.07431244162153,American Restaurant
+55,Phoenix,33.45,-112.07,Fired Pie,33.44742253720167,-112.07125289105429,Pizza Place
+56,Phoenix,33.45,-112.07,District American Kitchen & Wine Bar,33.45168577327582,-112.0700448169049,American Restaurant
+57,Phoenix,33.45,-112.07,CityScape Phoenix,33.44791864315961,-112.07367990882075,Shopping Mall
+58,Phoenix,33.45,-112.07,Nobuo at Teeter House,33.44964893648305,-112.0656121302771,Japanese Restaurant
+59,Phoenix,33.45,-112.07,TOM YUM,33.44958039979038,-112.07390250157835,Thai Restaurant
+60,Phoenix,33.45,-112.07,Royal Coffee Bar and Roasting Co,33.44981533184414,-112.0656827097072,Coffee Shop
+61,Phoenix,33.45,-112.07,Hilton Garden Inn,33.4501718,-112.0734543,Hotel
+62,Phoenix,33.45,-112.07,Chick-fil-A,33.4536187,-112.0715447,Fast Food Restaurant
+63,Phoenix,33.45,-112.07,Monarch Theatre,33.44834361503903,-112.0719645862766,Nightclub
+64,Phoenix,33.45,-112.07,Starbucks,33.449281424808,-112.07269261494507,Coffee Shop
+65,Phoenix,33.45,-112.07,Harumi Sushi,33.44978473007905,-112.0752761192183,Sushi Restaurant
+66,Phoenix,33.45,-112.07,Centrico,33.449458,-112.074081,Mexican Restaurant
+67,Phoenix,33.45,-112.07,Breakfast Club,33.4473359,-112.0734243,Breakfast Spot
+68,Phoenix,33.45,-112.07,EōS FITNESS,33.44794123210831,-112.07303303085496,Gym
+69,Phoenix,33.45,-112.07,Mountainside Fitness Platinum,33.44654545447412,-112.06667428884842,Gym
+70,Phoenix,33.45,-112.07,Monroe’s Hot Chicken,33.447042,-112.073328,Fried Chicken Joint
+71,Phoenix,33.45,-112.07,Blue Hound Kitchen & Cocktails,33.44744684287623,-112.0733168721199,New American Restaurant
+72,Phoenix,33.45,-112.07,Hard Rock Cafe Phoenix,33.4469963,-112.0710206,Theme Restaurant
+73,Phoenix,33.45,-112.07,Copper Blues Live!,33.44763339828435,-112.07389664829697,Rock Club
+74,Phoenix,33.45,-112.07,Nook Kitchen,33.450221242619996,-112.07372013722554,Pizza Place
+75,Phoenix,33.45,-112.07,Anhelo,33.448694,-112.065476,Restaurant
+76,Phoenix,33.45,-112.07,Cartel Coffee Lab,33.44844199084979,-112.07247794227017,Coffee Shop
+77,Phoenix,33.45,-112.07,Bar Bianco,33.4492534911461,-112.06589365484314,Wine Bar
+78,Phoenix,33.45,-112.07,AMC Arizona Center 24,33.453572068155424,-112.06919431686401,Movie Theater
+79,Phoenix,33.45,-112.07,Arizona Latino Arts & Cultural Center,33.449280942246254,-112.07160605790412,Art Gallery
+80,Phoenix,33.45,-112.07,Seamus McCaffrey's Irish Pub & Restaurant,33.450332301416864,-112.07422733345051,Irish Pub
+81,Phoenix,33.45,-112.07,Starbucks,33.44791375,-112.0746959,Coffee Shop
+82,Phoenix,33.45,-112.07,Dust Cutter,33.44955669919821,-112.0732103385821,American Restaurant
+83,Phoenix,33.45,-112.07,Starbucks,33.44937434415291,-112.0708939537822,Coffee Shop
+84,Phoenix,33.45,-112.07,Thai Basil,33.44927853854385,-112.07514603034988,Thai Restaurant
+85,Phoenix,33.45,-112.07,La Piazza Locale,33.44852029247839,-112.07251035395959,Pizza Place
+86,Phoenix,33.45,-112.07,Charming Charlie,33.44805714942593,-112.07369288324931,Accessories Store
+87,Phoenix,33.45,-112.07,Westin Executive Club,33.45175785859115,-112.07285341586119,Hotel Bar
+88,Phoenix,33.45,-112.07,Spoonz Cafe,33.4491894208204,-112.07453030456055,American Restaurant
+89,Phoenix,33.45,-112.07,Orangetheory Fitness,33.44760598200296,-112.07425017961509,Gym / Fitness Center
+90,Phoenix,33.45,-112.07,FlexPrint Club,33.4458227972346,-112.07126229485478,Lounge
+91,Phoenix,33.45,-112.07,Blue Moon Club,33.44671579045372,-112.0710306820844,Lounge
+92,Phoenix,33.45,-112.07,Vegan House,33.44932247702329,-112.07434198935415,Vegetarian / Vegan Restaurant
+93,Phoenix,33.45,-112.07,Willie's Taco Joint,33.446401935253874,-112.0698305819364,Mexican Restaurant
+94,Phoenix,33.45,-112.07,Squid Ink Sushi Bar,33.447531645339865,-112.07382476038019,Sushi Restaurant
+95,Phoenix,33.45,-112.07,Melinda's Alley,33.44968864029825,-112.07368633658763,Speakeasy
+96,Phoenix,33.45,-112.07,Al McCoy Media Center (US Airways Center),33.445925478213994,-112.069873740997,Basketball Stadium
+97,Phoenix,33.45,-112.07,Club Annexus,33.44587562834875,-112.07119258773136,Lounge
+98,Phoenix,33.45,-112.07,Noodle Bar,33.44950027813996,-112.07512904765731,Noodle House
+99,Phoenix,33.45,-112.07,NBA Visitors Locker Room (US Airways Centers),33.4458601332422,-112.07111379849664,Basketball Stadium
+100,Phoenix,33.45,-112.07,The Annexus Group Practice Court,33.44569,-112.07093,Basketball Court
+101,Phoenix,33.45,-112.07,Networks Bar & Grill,33.44953615548073,-112.07148722950694,Bar
+102,Phoenix,33.45,-112.07,Enjoy Sushi,33.44895958726968,-112.0741702756206,Sushi Restaurant
+103,Phoenix,33.45,-112.07,Chase Bank,33.450917,-112.073167,Bank
+104,Phoenix,33.45,-112.07,Urban Outfitters,33.44816,-112.07393,Clothing Store
+105,Phoenix,33.45,-112.07,Terrace Cafe,33.44986448022866,-112.07168201243094,Breakfast Spot
+106,Phoenix,33.45,-112.07,JoS. A. Bank,33.44814926952633,-112.07382096413914,Men's Store
+107,Phoenix,33.45,-112.07,Chico Malo,33.447557724345735,-112.0739383880599,Mexican Restaurant
+108,Phoenix,33.45,-112.07,Starbucks,33.44659354572787,-112.07189206525489,Coffee Shop
+109,Phoenix,33.45,-112.07,FedEx Office,33.44873546267537,-112.07377438927124,Shipping Store
+110,Phoenix,33.45,-112.07,Gypsy Bar,33.447880244983445,-112.07414571113554,Nightclub
+111,Phoenix,33.45,-112.07,Chipotle Mexican Grill,33.448060056270165,-112.07443803548813,Mexican Restaurant
+112,Phoenix,33.45,-112.07,ASU Devil's Greens,33.45303756538334,-112.07195214688058,College Cafeteria
+113,Phoenix,33.45,-112.07,The Strand Urban Italian,33.44738687917363,-112.072655277565,Italian Restaurant
+114,Phoenix,33.45,-112.07,METRO Van Buren/Central Ave,33.451657012304246,-112.0738730544494,Train Station
+115,Phoenix,33.45,-112.07,Dunkin',33.44948462030617,-112.07400496615276,Donut Shop
+116,Phoenix,33.45,-112.07,Even Stevens Sandwiches,33.45124719025938,-112.07514839179622,Sandwich Place
+117,Phoenix,33.45,-112.07,Pizza Hut,33.4510721,-112.0747304,Pizza Place
+118,Phoenix,33.45,-112.07,Jimmy John's,33.44800705458211,-112.07458412649169,Sandwich Place
+119,Little Rock,34.74,-92.33,Walgreens,34.7408197,-92.3352913,Pharmacy
+120,Little Rock,34.74,-92.33,MAPCO Mart,34.74138701554288,-92.33406018132594,Convenience Store
+121,Little Rock,34.74,-92.33,Church's Chicken,34.74088147353256,-92.33413701873934,Fried Chicken Joint
+122,Little Rock,34.74,-92.33,Rally's,34.741337,-92.333637,Fast Food Restaurant
+123,Little Rock,34.74,-92.33,Ugly Mike's Records,34.741143,-92.326566,Record Shop
+124,Little Rock,34.74,-92.33,Oak Forest Cleaners,34.740435,-92.334179,Dry Cleaner
+125,Little Rock,34.74,-92.33,Fair Park & 12th,34.74113642209672,-92.33446598052979,Intersection
+126,Little Rock,34.74,-92.33,Burger Brothers,34.740824,-92.325241,Burger Joint
+127,Sacramento,38.56,-121.47,Tako Korean BBQ,38.5616577688855,-121.47033862848309,Korean Restaurant
+128,Sacramento,38.56,-121.47,Abatin Wellness Center,38.561372999999996,-121.473952,Marijuana Dispensary
+129,Sacramento,38.56,-121.47,Coriander Savory Vietnamese Food,38.56289658447405,-121.46944759940253,Vietnamese Restaurant
+130,Sacramento,38.56,-121.47,Temple Coffee & Tea,38.56389899552608,-121.47240808754773,Coffee Shop
+131,Sacramento,38.56,-121.47,Pushkin's Bakery,38.56396427098953,-121.47213170720632,Bakery
+132,Sacramento,38.56,-121.47,Goodwill,38.562656,-121.470003,Thrift / Vintage Store
+133,Sacramento,38.56,-121.47,GG Salon,38.56301921296082,-121.46953196845341,Salon / Barbershop
+134,Sacramento,38.56,-121.47,Domino's Pizza,38.55587523594751,-121.47193106441023,Pizza Place
+135,Sacramento,38.56,-121.47,Java Jack's,38.559400927354815,-121.4662278428365,Coffee Shop
+136,Sacramento,38.56,-121.47,Jack's Supper Club,38.55936814452712,-121.46622452484262,Steakhouse
+137,Sacramento,38.56,-121.47,LINQ Midtown Pool,38.56289558376501,-121.46874842777747,Pool
+138,Sacramento,38.56,-121.47,LINQ Midtown Gym,38.56294081045081,-121.46873455935359,Gym
+139,Sacramento,38.56,-121.47,The Frosted Cake Shop,38.563916087150574,-121.47213935852051,Dessert Shop
+140,Denver,39.74,-104.98,Argonaut Wine & Liquor,39.739835,-104.978072,Liquor Store
+141,Denver,39.74,-104.98,Cheba Hut Toasted Subs,39.739681,-104.979016,Sandwich Place
+142,Denver,39.74,-104.98,La Abeja,39.74002644199467,-104.98085087589864,Mexican Restaurant
+143,Denver,39.74,-104.98,SliceWorks,39.7398851448818,-104.978575011681,Pizza Place
+144,Denver,39.74,-104.98,Natural Grocers,39.73933481500926,-104.97918823380881,Organic Grocery
+145,Denver,39.74,-104.98,Fillmore Auditorium,39.740442639761035,-104.97716596808625,Concert Hall
+146,Denver,39.74,-104.98,The 1UP Arcade Bar - Colfax,39.74007925781255,-104.97817252247776,Bar
+147,Denver,39.74,-104.98,Sassafras American Eatery,39.73994899661985,-104.9827555095705,Breakfast Spot
+148,Denver,39.74,-104.98,Good Times Burgers & Frozen Custard,39.739847852471165,-104.97726477358968,Fast Food Restaurant
+149,Denver,39.74,-104.98,Hudson Hill,39.736960247921495,-104.9794067618554,Cocktail Bar
+150,Denver,39.74,-104.98,Good Chemistry - Denver Dispensary,39.73990726771486,-104.98266807655273,Marijuana Dispensary
+151,Denver,39.74,-104.98,Molly Brown House Museum,39.737432018127265,-104.98068872888014,Museum
+152,Denver,39.74,-104.98,Capitol Hill Books,39.73997850804127,-104.98347153391282,Bookstore
+153,Denver,39.74,-104.98,Wax Trax Records,39.73681021185317,-104.97923001969335,Record Shop
+154,Denver,39.74,-104.98,Jelly Cafe,39.73679145639866,-104.97972950480312,Breakfast Spot
+155,Denver,39.74,-104.98,Steuben's,39.743412718911244,-104.98020196971015,American Restaurant
+156,Denver,39.74,-104.98,Marczyk Fine Foods,39.743138681216045,-104.97792791894467,Butcher
+157,Denver,39.74,-104.98,Gyroz,39.73972526750187,-104.9767192404031,Mediterranean Restaurant
+158,Denver,39.74,-104.98,Avenue Grill,39.74320265219274,-104.97903123332273,American Restaurant
+159,Denver,39.74,-104.98,Kirkland Museum of Fine & Decorative Art,39.73694332555489,-104.98009844575212,Art Gallery
+160,Denver,39.74,-104.98,Capitol Cigars,39.74007100252999,-104.97548801717214,Smoke Shop
+161,Denver,39.74,-104.98,Beast + Bottle,39.743354833511525,-104.97814334113545,New American Restaurant
+162,Denver,39.74,-104.98,Ogden Theatre,39.740166428690046,-104.97535630689222,Music Venue
+163,Denver,39.74,-104.98,Shish Kabob Grill,39.740245973446925,-104.98363344567666,Middle Eastern Restaurant
+164,Denver,39.74,-104.98,The Corner Beet,39.73853443699792,-104.97542416847682,Juice Bar
+165,Denver,39.74,-104.98,City Grille,39.740165157565464,-104.98286104873169,Burger Joint
+166,Denver,39.74,-104.98,Park & Co.,39.74343062565434,-104.98141282209014,Burger Joint
+167,Denver,39.74,-104.98,Sub Culture,39.73696334662768,-104.98099485339526,Sandwich Place
+168,Denver,39.74,-104.98,Prohibition,39.73990846667668,-104.98104787181354,Pub
+169,Denver,39.74,-104.98,CorePower Yoga,39.73706957478853,-104.98305715156675,Yoga Studio
+170,Denver,39.74,-104.98,WaterCourse Foods,39.74335415820212,-104.97649816522942,Vegetarian / Vegan Restaurant
+171,Denver,39.74,-104.98,Denver Turnverein,39.74129987058284,-104.97718392849771,Dance Studio
+172,Denver,39.74,-104.98,Phở-natic,39.74008075042005,-104.98411102616205,Noodle House
+173,Denver,39.74,-104.98,Pablo's Coffee,39.73715982897996,-104.98083468648042,Coffee Shop
+174,Denver,39.74,-104.98,Alpine Dog Brewing Company,39.74044396096285,-104.97492863772906,Brewery
+175,Denver,39.74,-104.98,Tycoon Ramen & Sushi Bar,39.73995764036842,-104.98245917987775,Noodle House
+176,Denver,39.74,-104.98,Ace Eat Serve,39.7435076248489,-104.98070459223092,Asian Restaurant
+177,Denver,39.74,-104.98,Kilgore Books and Comics,39.73678762010487,-104.97911120149853,Bookstore
+178,Denver,39.74,-104.98,Bang Up To The Elephant!,39.73715347738503,-104.97966609517296,Caribbean Restaurant
+179,Denver,39.74,-104.98,Benny Blanco's,39.736849877906046,-104.97937311896123,Pizza Place
+180,Denver,39.74,-104.98,Pub on Penn,39.736833181860675,-104.9808500995787,Pub
+181,Denver,39.74,-104.98,Charlie's Denver,39.73977888323706,-104.97623846804261,Gay Bar
+182,Denver,39.74,-104.98,FashioNation / Babysitter's Nightmare,39.736948418236906,-104.97949863412398,Clothing Store
+183,Denver,39.74,-104.98,Orangetheory Fitness,39.743189072236085,-104.98136136992692,Gym / Fitness Center
+184,Denver,39.74,-104.98,Pride & Swagger,39.74310186434412,-104.98125099020258,Gay Bar
+185,Denver,39.74,-104.98,Wax Trax,39.736739,-104.979064,Music Store
+186,Denver,39.74,-104.98,Tokyo Joe's,39.73765719744347,-104.98350501866162,Japanese Restaurant
+187,Denver,39.74,-104.98,The Spring Cafe,39.738296849976145,-104.98389244079588,Café
+188,Denver,39.74,-104.98,Your Mom's House,39.7368039286521,-104.97945057397328,Music Venue
+189,Denver,39.74,-104.98,Capitol Convenience,39.73689797068549,-104.9798204436797,Convenience Store
+190,Denver,39.74,-104.98,Domino's Pizza,39.736662951394436,-104.98329151422467,Pizza Place
+191,Denver,39.74,-104.98,Greenwerkz Wellness Center,39.73964284438885,-104.97563053046132,Marijuana Dispensary
+192,Hartford,41.77,-72.68,Blackeyed Sally's,41.76766123274433,-72.67953242439214,BBQ Joint
+193,Hartford,41.77,-72.68,Agave Grill,41.768462833318715,-72.67800386164903,Mexican Restaurant
+194,Hartford,41.77,-72.68,Aladdin Halal,41.768505,-72.678052,Middle Eastern Restaurant
+195,Hartford,41.77,-72.68,Dunkin' Donuts Park,41.77142,-72.675,Baseball Stadium
+196,Hartford,41.77,-72.68,Max Downtown,41.76714093568001,-72.67662801676319,American Restaurant
+197,Hartford,41.77,-72.68,TheaterWorks,41.76648625847757,-72.67778204765344,Theater
+198,Hartford,41.77,-72.68,Al's Market & Deli,41.76739779035613,-72.67758085681064,Grocery Store
+199,Hartford,41.77,-72.68,The Downtown YMCA,41.7683378901772,-72.67597366066948,Gym
+200,Hartford,41.77,-72.68,Hartford Stage,41.76877472916828,-72.67431640482823,Theater
+201,Hartford,41.77,-72.68,New York Deli,41.76827458490981,-72.67548416487027,Deli / Bodega
+202,Hartford,41.77,-72.68,Yard Goat Club,41.771500879282144,-72.6743313218562,Baseball Stadium
+203,Hartford,41.77,-72.68,The Tobacco Shop,41.76773421760838,-72.67494903551733,Smoke Shop
+204,Hartford,41.77,-72.68,Spiritus Wines,41.76726964212719,-72.67705300406479,Liquor Store
+205,Hartford,41.77,-72.68,XL Center,41.768556499034894,-72.67704632213207,Hockey Arena
+206,Hartford,41.77,-72.68,Art Space,41.76749904005272,-72.68320040620813,Art Gallery
+207,Hartford,41.77,-72.68,Bin 228,41.76654778068759,-72.67761796765187,Wine Bar
+208,Hartford,41.77,-72.68,Goodwin Hotel,41.76703916343628,-72.67689848288393,Hotel
+209,Hartford,41.77,-72.68,Piña Bar,41.767199679300425,-72.67696678968551,Cocktail Bar
+210,Hartford,41.77,-72.68,Pigs Eye Pub,41.76773884095207,-72.67954200021178,Bar
+211,Hartford,41.77,-72.68,SUBWAY,41.768792955323015,-72.68154986511689,Sandwich Place
+212,Hartford,41.77,-72.68,Starbucks,41.76679552,-72.67591306,Coffee Shop
+213,Hartford,41.77,-72.68,The Russell,41.76782798166711,-72.6754572250533,Caribbean Restaurant
+214,Hartford,41.77,-72.68,Dunkin',41.768237763114854,-72.6751229739723,Donut Shop
+215,Hartford,41.77,-72.68,7 Sins Lounge & Bar,41.76924721584188,-72.68131971359253,Lounge
+216,Hartford,41.77,-72.68,Laetus Restaurant & Lounge,41.76693,-72.67751,Asian Restaurant
+217,Hartford,41.77,-72.68,V's Trattoria,41.768814243043145,-72.67483736087026,Italian Restaurant
+218,Hartford,41.77,-72.68,TD Bank,41.767334074639976,-72.6760013565654,Bank
+219,Hartford,41.77,-72.68,The Russian Lady,41.767998348235764,-72.67793904117849,Bar
+220,Hartford,41.77,-72.68,SUBWAY,41.77416674482246,-72.67850115702572,Sandwich Place
+221,Hartford,41.77,-72.68,Au Bon Pain,41.7668802933638,-72.67650311591939,Sandwich Place
+222,Hartford,41.77,-72.68,Dunkin',41.76836098982523,-72.67641536441806,Donut Shop
+223,Hartford,41.77,-72.68,The Tavern Downtown,41.76826616235783,-72.67807944994077,Bar
+224,Hartford,41.77,-72.68,Dunkin',41.768914,-72.681575,Donut Shop
+225,Hartford,41.77,-72.68,Max Bibo's,41.7676719590973,-72.67556719024428,Deli / Bodega
+226,Hartford,41.77,-72.68,M & M Bistro,41.76910603738831,-72.67530434141726,Bistro
+227,Hartford,41.77,-72.68,Hilton,41.7692847,-72.6762242,Hotel
+228,Hartford,41.77,-72.68,Dunkin',41.771117,-72.674264,Donut Shop
+229,Hartford,41.77,-72.68,Pyur,41.76843067217215,-72.67889612401791,Nightclub
+230,Hartford,41.77,-72.68,Dunkin',41.77414230058482,-72.67841574511277,Donut Shop
+231,District of Columbia,38.91,-77.01,Uncle Chip's,38.91014155561425,-77.0091644039656,Bakery
+232,District of Columbia,38.91,-77.01,Wicked Bloom,38.91076270001639,-77.00920241965898,Bar
+233,District of Columbia,38.91,-77.01,Capital City Care,38.90822379137543,-77.0092215030647,Pharmacy
+234,District of Columbia,38.91,-77.01,Republic Cantina,38.907443,-77.011108,Tex-Mex Restaurant
+235,District of Columbia,38.91,-77.01,Big Bear Cafe,38.91265039743225,-77.01233012803846,Café
+236,District of Columbia,38.91,-77.01,The Pub & The People,38.912353131655536,-77.00930804014206,Pub
+237,District of Columbia,38.91,-77.01,Bloomingdale Farmers Market,38.91260622831253,-77.01247740701442,Farmers Market
+238,District of Columbia,38.91,-77.01,SiriusXM Satellite Radio,38.90946347229844,-77.00591375619382,Radio Station
+239,District of Columbia,38.91,-77.01,Jam Doung Style,38.913517048942246,-77.00912022959788,Caribbean Restaurant
+240,District of Columbia,38.91,-77.01,Spark,38.912022,-77.009425,Caribbean Restaurant
+241,District of Columbia,38.91,-77.01,52 O Street Artist Studios,38.90848361809832,-77.01089063234707,Art Gallery
+242,District of Columbia,38.91,-77.01,Big Ben Liquors,38.90745474739563,-77.00918253933793,Wine Shop
+243,District of Columbia,38.91,-77.01,Subway,38.910701,-77.009455,Sandwich Place
+244,District of Columbia,38.91,-77.01,Qualia Coffee,38.9106980792712,-77.00472275212789,Coffee Shop
+245,District of Columbia,38.91,-77.01,Hyatt Place Washington Dc/Us Capitol,38.907542535322584,-77.00774928287055,Hotel
+246,District of Columbia,38.91,-77.01,Sunset Liquors Inc,38.911887,-77.011945,Winery
+247,District of Columbia,38.91,-77.01,KFC,38.910887,-77.00869,Fast Food Restaurant
+248,District of Columbia,38.91,-77.01,The Washington Firehouse Restaurant,38.91198826590869,-77.00914270130781,American Restaurant
+249,District of Columbia,38.91,-77.01,New York Pizza,38.910770746172496,-77.00878107031366,Pizza Place
+250,District of Columbia,38.91,-77.01,TD Bank,38.9070766,-77.0056522,Bank
+251,District of Columbia,38.91,-77.01,Wendy’s,38.90890524528857,-77.00540944933897,Fast Food Restaurant
+252,District of Columbia,38.91,-77.01,Domestique,38.910803,-77.009497,Wine Shop
+253,District of Columbia,38.91,-77.01,WMATA Metro Bus 90,38.910739249566106,-77.00917864018288,Bus Line
+254,District of Columbia,38.91,-77.01,S.O.M.E. (So Others Might Eat),38.90866893334902,-77.01148721139312,Cafeteria
+255,District of Columbia,38.91,-77.01,Wonderbox,38.907937081868184,-77.0115420831193,Art Gallery
+256,District of Columbia,38.91,-77.01,Wendy's Circle,38.90905316303228,-77.0052699967299,Plaza
+257,District of Columbia,38.91,-77.01,Hyatt Place Starbucks Counter,38.907237918840984,-77.00747010168375,Coffee Shop
+258,District of Columbia,38.91,-77.01,New York Ave & 1st NW,38.90669285390851,-77.01169247814315,Intersection
+259,District of Columbia,38.91,-77.01,80 Bus At  Randolph Pl,38.91353130340576,-77.00914442539215,Bus Station
+260,District of Columbia,38.91,-77.01,Sirius XM Gym,38.90971180485017,-77.00538757827744,Gym
+261,District of Columbia,38.91,-77.01,New York Ave Playground,38.90654800060994,-77.01222739386853,Basketball Court
+262,District of Columbia,38.91,-77.01,3rd Street Market,38.909715970247056,-77.01517914700098,Convenience Store
+263,District of Columbia,38.91,-77.01,All in one Market,38.909881,-77.015413,Convenience Store
+264,District of Columbia,38.91,-77.01,G2 Bus Stop - 3rd & Q NW,38.91124217162661,-77.01541092121654,Bus Station
+265,Dover,39.16,-75.53,33 West,39.15794000545986,-75.52560743795568,American Restaurant
+266,Dover,39.16,-75.53,The Golden Fleece Tavern,39.157628501147876,-75.52638120702522,Bar
+267,Dover,39.16,-75.53,El Nopal,39.159777944015865,-75.53504674485664,Mexican Restaurant
+268,Dover,39.16,-75.53,BNL (Brunch And Lunch),39.15803146362305,-75.52526092529297,New American Restaurant
+269,Dover,39.16,-75.53,Grey Fox Grille & Public House,39.15873584175185,-75.5248419490723,Restaurant
+270,Dover,39.16,-75.53,Angelo's Pizza,39.15789057968497,-75.52512531496251,Pizza Place
+271,Dover,39.16,-75.53,Irish Mike's Old Towne Pub,39.157863965918146,-75.52605799100785,Bar
+272,Dover,39.16,-75.53,Simaron,39.1572151184082,-75.53018188476562,American Restaurant
+273,Dover,39.16,-75.53,La Delicia,39.157859,-75.531611,Mexican Restaurant
+274,Dover,39.16,-75.53,Bayard Pharmacy,39.157336,-75.527458,Pharmacy
+275,Dover,39.16,-75.53,City of Dover Park,39.163298,-75.532914,Park
+276,Tallahassee,30.45,-84.27,Purple Martin Outpost,30.451524,-84.27034599999999,Garden Center
+277,Tallahassee,30.45,-84.27,East Hill Baptist Church,30.45341890305452,-84.26810760706394,Church
+278,Tallahassee,30.45,-84.27,Leon High Baseball Field,30.44678408324638,-84.27277138376228,Baseball Field
+279,Tallahassee,30.45,-84.27,2 minute red light,30.445639679019457,-84.26890995935888,Intersection
+280,Atlanta,33.76,-84.39,The Tabernacle,33.75871863044298,-84.39145525628788,Music Venue
+281,Atlanta,33.76,-84.39,AmericasMart Building 3,33.761522446696624,-84.3897189004215,Convention Center
+282,Atlanta,33.76,-84.39,The Westin Lobby Bar,33.75958908455628,-84.38836601152384,Hotel Bar
+283,Atlanta,33.76,-84.39,The Food Shoppe,33.75825335562448,-84.39058182878813,Cajun / Creole Restaurant
+284,Atlanta,33.76,-84.39,Ted's Montana Grill,33.758538,-84.390669,American Restaurant
+285,Atlanta,33.76,-84.39,Alma Cocina,33.759069943235,-84.387536478439,Latin American Restaurant
+286,Atlanta,33.76,-84.39,Aviva by Kameel,33.7605969735783,-84.38654827418792,Mediterranean Restaurant
+287,Atlanta,33.76,-84.39,SkyView Atlanta,33.75886526317255,-84.39196291984763,Theme Park Ride / Attraction
+288,Atlanta,33.76,-84.39,Centennial Olympic Park,33.76035574468761,-84.39350724220276,Park
+289,Atlanta,33.76,-84.39,Fountain of Rings,33.75952447261954,-84.39280012739826,Fountain
+290,Atlanta,33.76,-84.39,Red Phone Booth,33.75957510929371,-84.38690632129897,Bar
+291,Atlanta,33.76,-84.39,Sweet Georgia's Juke Joint,33.75867604101219,-84.38774354786175,Southern / Soul Food Restaurant
+292,Atlanta,33.76,-84.39,Escape the Room,33.75889892553803,-84.38760271888172,General Entertainment
+293,Atlanta,33.76,-84.39,Lumen,33.758594600201214,-84.38755877118889,Cocktail Bar
+294,Atlanta,33.76,-84.39,The Westin Peachtree Plaza,33.7594111,-84.387917,Hotel
+295,Atlanta,33.76,-84.39,Rialto Center for the Arts,33.756813077867285,-84.38923876475026,Performing Arts Venue
+296,Atlanta,33.76,-84.39,Polaris,33.761552270001054,-84.38689786622948,New American Restaurant
+297,Atlanta,33.76,-84.39,Panbury's Pie Café,33.76056147225917,-84.38639337895938,Café
+298,Atlanta,33.76,-84.39,Hard Rock Cafe Atlanta,33.7598163,-84.3874499,Theme Restaurant
+299,Atlanta,33.76,-84.39,The Children's Museum of Atlanta,33.762474932967606,-84.39182310285935,Museum
+300,Atlanta,33.76,-84.39,"Sun Dial Restaurant, Bar & View",33.75947803596591,-84.38857976983876,Hotel Bar
+301,Atlanta,33.76,-84.39,Wxyz Lounge,33.762477179621904,-84.38938189134733,Lounge
+302,Atlanta,33.76,-84.39,Gus's Fried Chicken,33.75990216220687,-84.38613256794756,Fried Chicken Joint
+303,Atlanta,33.76,-84.39,Park Bar,33.75819,-84.392779,Sports Bar
+304,Atlanta,33.76,-84.39,Atlanta Marriott Marquis,33.761595,-84.3855796,Hotel
+305,Atlanta,33.76,-84.39,College Football Hall of Fame,33.760184,-84.3951345,Museum
+306,Atlanta,33.76,-84.39,Fish Bowl Poké,33.75572717691757,-84.38940018084884,Poke Place
+307,Atlanta,33.76,-84.39,Pittypat's Porch,33.75966491359092,-84.38847406546165,Southern / Soul Food Restaurant
+308,Atlanta,33.76,-84.39,World of Coca-Cola,33.76286032241633,-84.39316650014926,Museum
+309,Atlanta,33.76,-84.39,Hsu's Gourmet,33.75956512767296,-84.38608767603405,Indian Chinese Restaurant
+310,Atlanta,33.76,-84.39,Theatrical Outfit,33.757137994616215,-84.38939371972418,Theater
+311,Atlanta,33.76,-84.39,Ruth's Chris Steak House,33.760717,-84.3942665,Steakhouse
+312,Atlanta,33.76,-84.39,Firehouse Subs,33.760402,-84.386406,Sandwich Place
+313,Atlanta,33.76,-84.39,Baraka Shawarma,33.75646257646296,-84.39088224519561,Mediterranean Restaurant
+314,Atlanta,33.76,-84.39,Kwan's Deli and Korean Kitchen,33.76085112409367,-84.39406349170086,Sandwich Place
+315,Atlanta,33.76,-84.39,Slice Downtown,33.756959240042754,-84.39007313055326,Lounge
+316,Atlanta,33.76,-84.39,Reuben's Deli,33.75568700591916,-84.38944177070124,Deli / Bodega
+317,Atlanta,33.76,-84.39,Balzer Theater at Herren's,33.757168720716436,-84.38936483021202,Theater
+318,Atlanta,33.76,-84.39,Dua Vietnamese Noodle Soup,33.75560963018946,-84.38953015424566,Vietnamese Restaurant
+319,Atlanta,33.76,-84.39,Georgia-Pacific Center,33.75821220858665,-84.38727596262589,Office
+320,Atlanta,33.76,-84.39,Courtyard by Marriott Atlanta Downtown,33.75820341244482,-84.38808864368184,Hotel
+321,Atlanta,33.76,-84.39,Get Fruity Cafe,33.75628769390578,-84.3918855797567,Juice Bar
+322,Atlanta,33.76,-84.39,Rosa's Pizza,33.755799231186174,-84.389264158008,Pizza Place
+323,Atlanta,33.76,-84.39,Latitudes Bistro & Lounge,33.758054,-84.394518,Hotel Bar
+324,Atlanta,33.76,-84.39,Sub Zero Nitrogen Ice Cream,33.76152818809207,-84.39483375026248,Ice Cream Shop
+325,Atlanta,33.76,-84.39,NaanStop,33.755792460006006,-84.38927438016196,Indian Restaurant
+326,Atlanta,33.76,-84.39,Omni Atlanta Hotel at CNN Center,33.75803365,-84.39448624,Hotel
+327,Atlanta,33.76,-84.39,Ali Baba,33.755703352485,-84.38941938022802,Falafel Restaurant
+328,Atlanta,33.76,-84.39,Dunkin',33.75725023741556,-84.3887729115985,Donut Shop
+329,Atlanta,33.76,-84.39,Glenn's Kitchen,33.75710834122937,-84.39276600830355,American Restaurant
+330,Atlanta,33.76,-84.39,"Glenn Hotel, Autograph Collection",33.7569647,-84.3929763,Hotel
+331,Atlanta,33.76,-84.39,High Velocity,33.76158,-84.3851,Bar
+332,Atlanta,33.76,-84.39,Taqueria on Broad,33.755634357666565,-84.38952574300973,Mexican Restaurant
+333,Atlanta,33.76,-84.39,Café Lucia,33.755854319443735,-84.39006949874123,Café
+334,Atlanta,33.76,-84.39,Smoothie King,33.756057,-84.389171,Smoothie Shop
+335,Atlanta,33.76,-84.39,Gibney's Pub,33.760358374672954,-84.38614488732391,Pub
+336,Atlanta,33.76,-84.39,Pemberton Place,33.762973771642805,-84.39360840627404,Plaza
+337,Atlanta,33.76,-84.39,McCormick & Schmick's Seafood & Steak,33.759069,-84.394996,Seafood Restaurant
+338,Atlanta,33.76,-84.39,Jersey Mike's Subs,33.755888,-84.391068,Sandwich Place
+339,Atlanta,33.76,-84.39,Michael's Cafe,33.756085,-84.391528,American Restaurant
+340,Atlanta,33.76,-84.39,Prime Meridian,33.758055,-84.393966,American Restaurant
+341,Atlanta,33.76,-84.39,Jimmy John's,33.756231773655216,-84.38881119290666,Sandwich Place
+342,Atlanta,33.76,-84.39,Peets Coffee,33.758753,-84.394846,Coffee Shop
+343,Atlanta,33.76,-84.39,Rising Roll Gourmet,33.756588,-84.388095,Sandwich Place
+344,Atlanta,33.76,-84.39,Wednesday WindDown,33.75860516596657,-84.39340858551968,Music Venue
+345,Atlanta,33.76,-84.39,Just Around The Corner,33.757022470883015,-84.39250022849622,Fast Food Restaurant
+346,Atlanta,33.76,-84.39,Quiznos,33.7573462,-84.3880811,Sandwich Place
+347,Atlanta,33.76,-84.39,Terrace Bistro,33.7581443786519,-84.38766197410318,Southern / Soul Food Restaurant
+348,Atlanta,33.76,-84.39,Thrive,33.75692149671866,-84.39241327675718,Nightclub
+349,Atlanta,33.76,-84.39,Subway,33.758188879504075,-84.39304550157411,Sandwich Place
+350,Atlanta,33.76,-84.39,Flats,33.758127,-84.392898,New American Restaurant
+351,Atlanta,33.76,-84.39,Sky Lounge At The Glenn Hotel,33.75712772705435,-84.3929639737961,Lounge
+352,Atlanta,33.76,-84.39,J.R. Crickets Downtown,33.7560345,-84.3900294,Wings Joint
+353,Atlanta,33.76,-84.39,Starbucks,33.75660618,-84.38860219,Coffee Shop
+354,Atlanta,33.76,-84.39,Downtown Gourmet,33.75674293889215,-84.38836374386977,Mediterranean Restaurant
+355,Atlanta,33.76,-84.39,BurgerFi,33.75826637,-84.39489872,Burger Joint
+356,Atlanta,33.76,-84.39,Pulse @ Atlanta Marriott Marquis,33.7615315890355,-84.38491668325615,Hotel Bar
+357,Atlanta,33.76,-84.39,Fifth Third Bank & ATM,33.757508272217876,-84.38701228060381,Bank
+358,Atlanta,33.76,-84.39,Sear @ Atlanta Marriott Marquis,33.76158,-84.3851,Bar
+359,Atlanta,33.76,-84.39,CVS pharmacy,33.757655,-84.385855,Pharmacy
+360,Atlanta,33.76,-84.39,Home2 Suites by Hilton,33.7569457,-84.3911642,Hotel
+361,Atlanta,33.76,-84.39,Starbucks,33.761693,-84.385642,Coffee Shop
+362,Atlanta,33.76,-84.39,Hudson Grille,33.75767878917248,-84.39322695494685,American Restaurant
+363,Atlanta,33.76,-84.39,Thrive,33.75699834749192,-84.39246165782913,Sushi Restaurant
+364,Atlanta,33.76,-84.39,FedEx Office Print & Ship Center,33.76149744891489,-84.38501000404358,Shipping Store
+365,Atlanta,33.76,-84.39,Arby's,33.75807898052406,-84.39456054571565,Fast Food Restaurant
+366,Atlanta,33.76,-84.39,Subway,33.76039838706728,-84.38492563359715,Sandwich Place
+367,Honolulu,21.31,-157.83,Honolulu Museum of Art Spalding House,21.311905620138447,-157.83299242722575,Art Gallery
+368,Honolulu,21.31,-157.83,Archie Baker Mini Park,21.308236175570173,-157.8311566060689,Park
+369,Honolulu,21.31,-157.83,Makiki Loop Trail,21.313954238082335,-157.82934101848727,Trail
+370,Honolulu,21.31,-157.83,Makiki Forest Recreation Area,21.31395924814536,-157.82927040449803,Forest
+371,Boise,43.61,-116.24,Tango's,43.61080901144538,-116.24364535981944,Empanada Restaurant
+372,Boise,43.61,-116.24,McCleary's Pub,43.61004825586488,-116.24316225975397,Pub
+373,Boise,43.61,-116.24,Navajo Room,43.61215340737921,-116.24291531290008,Dive Bar
+374,Boise,43.61,-116.24,Bosnia Express,43.612285,-116.242028,Sandwich Place
+375,Boise,43.61,-116.24,Chiang Mai House,43.612336917353765,-116.24271109777898,Thai Restaurant
+376,Boise,43.61,-116.24,Wok-Inn Noodle,43.6122068819733,-116.24302274788919,Chinese Restaurant
+377,Boise,43.61,-116.24,Campos Market,43.608292,-116.24397,Mexican Restaurant
+378,Boise,43.61,-116.24,Emerald Lanes,43.61215515702726,-116.24214656127695,Bowling Alley
+379,Boise,43.61,-116.24,Wells Fargo,43.608675,-116.243713,Bank
+380,Boise,43.61,-116.24,Subway,43.61187398802441,-116.24404254903288,Sandwich Place
+381,Boise,43.61,-116.24,Shell,43.61137725,-116.23903446,Gas Station
+382,Boise,43.61,-116.24,Sonic Drive-In,43.6123159,-116.2440647,Fast Food Restaurant
+383,Boise,43.61,-116.24,Idaho Youth Ranch,43.606920821018136,-116.24304669727212,Thrift / Vintage Store
+384,Boise,43.61,-116.24,McDonald's,43.609381,-116.242945,Fast Food Restaurant
+385,Boise,43.61,-116.24,Craft Brewers of Boise,43.608506,-116.243079,Brewery
+386,Boise,43.61,-116.24,Gig's Music,43.61012,-116.243845,Music Store
+387,Boise,43.61,-116.24,Gangnam (강남),43.607219,-116.243949,Korean Restaurant
+388,Boise,43.61,-116.24,Telford And Sons Violins,43.613919,-116.242548,Music Store
+389,Springfield,39.78,-89.65,Gabatoni's Restaurant,39.78267622410294,-89.6520324429651,Italian Restaurant
+390,Springfield,39.78,-89.65,Track Shack,39.783165999999994,-89.652525,Bar
+391,Springfield,39.78,-89.65,Grab a Java,39.783782457076,-89.64798715576485,Coffee Shop
+392,Springfield,39.78,-89.65,Mel-O-Cream,39.783025563767154,-89.6528292628649,Donut Shop
+393,Indianapolis,39.79,-86.15,Tinker Street,39.78856912887858,-86.15072443413982,New American Restaurant
+394,Indianapolis,39.79,-86.15,Foundry Provisions,39.78858703183563,-86.15249083779659,Café
+395,Indianapolis,39.79,-86.15,Footlite Musicals,39.79231691840656,-86.15193887898751,Theater
+396,Indianapolis,39.79,-86.15,Greg's (Our Place),39.7883364944785,-86.15269796840447,Gay Bar
+397,Indianapolis,39.79,-86.15,Harrison Center for the Arts,39.787915176571886,-86.15351751880183,Art Gallery
+398,Indianapolis,39.79,-86.15,Dr. Martin Luther King Jr. Park,39.79305626496455,-86.14656686782837,Park
+399,Indianapolis,39.79,-86.15,Talbot Street Art Fair,39.79082138027426,-86.15492873596664,Public Art
+400,Indianapolis,39.79,-86.15,Redbox,39.788426,-86.149029,Video Store
+401,Indianapolis,39.79,-86.15,The Villa Inn Restaurant & Spa,39.789260277555314,-86.15336452118402,Spa
+402,Indianapolis,39.79,-86.15,Indieana Handicraft Exchange,39.788017,-86.153661,Art Gallery
+403,Indianapolis,39.79,-86.15,Queen Bee Vintage,39.78837770278871,-86.15533619283809,Thrift / Vintage Store
+404,Des Moines,41.59,-93.62,Des Moines Performing Arts Civic Center,41.58749573152956,-93.62057533097656,Theater
+405,Des Moines,41.59,-93.62,Brenton Skating Plaza,41.58996122991858,-93.61696825948584,Skating Rink
+406,Des Moines,41.59,-93.62,Principal Riverwalk,41.58915114924089,-93.61795868868678,Trail
+407,Des Moines,41.59,-93.62,Iowa Wild Hockey,41.59262892583415,-93.62126139030147,Athletics & Sports
+408,Des Moines,41.59,-93.62,World Food Prize,41.587569704993776,-93.61895253625453,Museum
+409,Des Moines,41.59,-93.62,Splash Seafood Bar & Grill,41.58777462095492,-93.62155081327812,Seafood Restaurant
+410,Des Moines,41.59,-93.62,Simon Estes Amphitheater,41.588179995361685,-93.61648930170074,Music Venue
+411,Des Moines,41.59,-93.62,Wells Fargo Arena,41.592577209814905,-93.62116506391884,Basketball Stadium
+412,Des Moines,41.59,-93.62,Hilton,41.59073,-93.62354,Hotel
+413,Des Moines,41.59,-93.62,Hy-Vee Hall,41.59208898460185,-93.62166781862778,Convention Center
+414,Des Moines,41.59,-93.62,Cowles Commons,41.58709244950187,-93.621732712769,Plaza
+415,Des Moines,41.59,-93.62,Fong's Pizza,41.585925025621385,-93.62189262540161,Pizza Place
+416,Des Moines,41.59,-93.62,Buzzard Billy's,41.58999945418253,-93.62113594933261,Cajun / Creole Restaurant
+417,Des Moines,41.59,-93.62,Nitefall on the River,41.588084632337896,-93.61672282218933,Music Venue
+418,Des Moines,41.59,-93.62,Robert D. Ray Asian Gardens,41.5930752245508,-93.61733044778836,Garden
+419,Des Moines,41.59,-93.62,The Stuffed Olive,41.5855596470265,-93.6206961177078,Cocktail Bar
+420,Des Moines,41.59,-93.62,Stoner Theater,41.587256079247204,-93.62016006715442,Theater
+421,Des Moines,41.59,-93.62,Wasabi Tao,41.58633193859902,-93.6222130934525,Sushi Restaurant
+422,Des Moines,41.59,-93.62,Embassy Suites by Hilton,41.58830698319226,-93.61575261904531,Hotel
+423,Des Moines,41.59,-93.62,Farm Boys Burritos - DSM DownTown Farmers Market,41.58609009537289,-93.6221048569772,Breakfast Spot
+424,Des Moines,41.59,-93.62,The Lift,41.58599305002496,-93.62203298478487,Lounge
+425,Des Moines,41.59,-93.62,Wellmark YMCA,41.588588977293654,-93.62427166747761,Gym / Fitness Center
+426,Des Moines,41.59,-93.62,Domino's Pizza,41.58853199578732,-93.6229750514031,Pizza Place
+427,Des Moines,41.59,-93.62,Big City Burgers And Greens,41.586445941963575,-93.62310183889677,Burger Joint
+428,Des Moines,41.59,-93.62,The Riverwalk Hub,41.58631013895708,-93.61790399254859,Coffee Shop
+429,Des Moines,41.59,-93.62,West Elm,41.58983379522598,-93.61451956784227,Furniture / Home Store
+430,Des Moines,41.59,-93.62,Coda Lounge,41.58730855813016,-93.62273680924368,Lounge
+431,Des Moines,41.59,-93.62,Starbucks,41.58812360255369,-93.62294532000823,Coffee Shop
+432,Des Moines,41.59,-93.62,FedEx Office Print & Ship Center,41.5871725,-93.6227767,Shipping Store
+433,Des Moines,41.59,-93.62,Papa John's Pizza,41.592972760624306,-93.621822295417,Pizza Place
+434,Des Moines,41.59,-93.62,Sidebar,41.58651813786085,-93.62296840749981,Café
+435,Des Moines,41.59,-93.62,Fairfield Inn And Suites,41.593796999999995,-93.620808,Hotel
+436,Des Moines,41.59,-93.62,Iowa Hall of Pride,41.59118573061601,-93.62202513060244,Museum
+437,Des Moines,41.59,-93.62,BOS Contemporary Midwest Cuisine,41.58761632916713,-93.6226126427043,American Restaurant
+438,Des Moines,41.59,-93.62,Hilton Des Moines Downtown - Fitness Center,41.590598,-93.623804,Gym / Fitness Center
+439,Des Moines,41.59,-93.62,Winter Farmer's Market,41.58685070581523,-93.62282084371992,Farmers Market
+440,Topeka,39.04,-95.69,College Hill Pizza Pub,39.04035,-95.69528,Pizza Place
+441,Topeka,39.04,-95.69,Oscars,39.04015803817488,-95.69521926633965,Dive Bar
+442,Frankfort,38.2,-84.86,K-State Cafe,38.20103824988322,-84.85595069985811,Food Court
+443,Frankfort,38.2,-84.86,Tackle Box N Sports Bar,38.20324,-84.862238,Bar
+444,Baton Rouge,30.46,-91.14,Family Dollar,30.463472999999997,-91.138964,Discount Store
+445,Augusta,44.32,-69.77,Lisa's Resturant,44.317561,-69.766982,American Restaurant
+446,Augusta,44.32,-69.77,Cumberland Farms,44.321069,-69.774557,Convenience Store
+447,Augusta,44.32,-69.77,SUBWAY,44.321633,-69.765102,Sandwich Place
+448,Augusta,44.32,-69.77,Downtown Diner,44.316554181236526,-69.7735853024141,American Restaurant
+449,Augusta,44.32,-69.77,Damon's Beverage Mart,44.32163588503818,-69.76451167005375,Convenience Store
+450,Augusta,44.32,-69.77,Old Fort Western,44.316168849425694,-69.77034189572409,History Museum
+451,Augusta,44.32,-69.77,Dunkin',44.319243441793105,-69.76557249970583,Donut Shop
+452,Augusta,44.32,-69.77,Game On Cafe,44.319603,-69.773366,Hobby Shop
+453,Augusta,44.32,-69.77,Whipper's Pizza,44.317239,-69.767094,Pizza Place
+454,Augusta,44.32,-69.77,Lisas Legit Burritos,44.316587,-69.773258,Burrito Place
+455,Augusta,44.32,-69.77,Pizza Connection,44.318714,-69.764368,Pizza Place
+456,Augusta,44.32,-69.77,Cosmic Charlie's,44.317179557497205,-69.77460500157338,Smoke Shop
+457,Augusta,44.32,-69.77,The Black And Tan,44.317008,-69.774469,Pub
+458,Annapolis,38.97,-76.5,Segway of Annapolis,38.969737,-76.504777,Shop & Service
+459,Annapolis,38.97,-76.5,Spa Cove Pool,38.96584155378302,-76.49901391290936,Pool
+460,Boston,42.24,-71.03,The UPS Store,42.2434844,-71.0301983,Shipping Store
+461,Boston,42.24,-71.03,Blue Hills Reservation (Granite Ave Entrance),42.240956723664404,-71.025403897892,Park
+462,Boston,42.24,-71.03,238 Bus Stop,42.23849690359554,-71.0255896235467,Bus Stop
+463,Boston,42.24,-71.03,The Corner Store,42.238304,-71.025257,Food & Drink Shop
+464,Boston,42.24,-71.03,Quarry Hills Golf Club,42.24337075332129,-71.02689550471001,Golf Course
+465,Lansing,42.73,-84.55,Sultan Express,42.73096487011941,-84.55207585162795,Middle Eastern Restaurant
+466,Lansing,42.73,-84.55,Zoup!,42.73192749120787,-84.5523460127604,Soup Place
+467,Lansing,42.73,-84.55,Jalapeno's,42.73101519552594,-84.55211681972402,Mexican Restaurant
+468,Lansing,42.73,-84.55,Impression 5 Science Center,42.73228434474309,-84.54859481493416,Science Museum
+469,Lansing,42.73,-84.55,Peanut Shop,42.7328831261739,-84.55220613268271,Snack Place
+470,Lansing,42.73,-84.55,R.E. Olds Transportation Museum,42.731192,-84.548016,Museum
+471,Lansing,42.73,-84.55,Weston's Kewpee Sandwich,42.73281,-84.55274,Burger Joint
+472,Lansing,42.73,-84.55,Downtown Smoking Club,42.729566,-84.552677,Smoke Shop
+473,Lansing,42.73,-84.55,For Crêpe Sake,42.731797,-84.551884,Creperie
+474,Lansing,42.73,-84.55,Tavern & Tap,42.73348916383554,-84.55193381470204,Restaurant
+475,Lansing,42.73,-84.55,Thai Village,42.729833093391626,-84.5523050681307,Thai Restaurant
+476,Lansing,42.73,-84.55,Firehouse Subs,42.732284,-84.552518,Sandwich Place
+477,Lansing,42.73,-84.55,Kositchek's,42.73393918235031,-84.55220614808314,Men's Store
+478,Lansing,42.73,-84.55,Edens Juice,42.7329634393215,-84.55232053952165,Juice Bar
+479,Lansing,42.73,-84.55,Summit Comics and Games,42.73183648799316,-84.55242514513293,Comic Shop
+480,Lansing,42.73,-84.55,Juice Nation,42.73301379043825,-84.55223363164109,Juice Bar
+481,Lansing,42.73,-84.55,Glazed & Confused,42.7332586,-84.55178819999999,Bakery
+482,Lansing,42.73,-84.55,Riverwalk Theatre,42.7319002438373,-84.54927351784424,Theater
+483,Lansing,42.73,-84.55,BIGGBY Coffee,42.73031029408109,-84.54505227573506,Coffee Shop
+484,Lansing,42.73,-84.55,The Daily Bagel,42.730987262121374,-84.55219893852063,Bagel Shop
+485,Lansing,42.73,-84.55,Tavern & Tap,42.732323122617125,-84.55235710669243,Lounge
+486,Lansing,42.73,-84.55,Aladdin's Express,42.73215535948462,-84.55238114084811,Middle Eastern Restaurant
+487,Lansing,42.73,-84.55,Kelly's Irish Pub,42.73177093911732,-84.55234176506757,Irish Pub
+488,Lansing,42.73,-84.55,AnQi Sushi Express,42.73267379610581,-84.55172922833808,Sushi Restaurant
+489,Lansing,42.73,-84.55,Chase Bank,42.73241290166286,-84.55189730972336,Bank
+490,Lansing,42.73,-84.55,Midtown Brewing Company,42.72964715278051,-84.55263993702829,Brewery
+491,Lansing,42.73,-84.55,BIGGBY COFFEE,42.73250622529563,-84.55289048066194,Coffee Shop
+492,Lansing,42.73,-84.55,Nuthouse Sports Grill,42.73322,-84.54694,Sports Bar
+493,Lansing,42.73,-84.55,Trōppo,42.73379150295998,-84.55193648135071,New American Restaurant
+494,Lansing,42.73,-84.55,Taps 25,42.73342576082898,-84.54751540091672,Bar
+495,Lansing,42.73,-84.55,Starbucks,42.7340522618963,-84.55055388131493,Coffee Shop
+496,Lansing,42.73,-84.55,Secrets Night Club,42.731667571645666,-84.55235830244952,Nightclub
+497,Lansing,42.73,-84.55,The Exchange of Lansing,42.73333169435193,-84.54882586878664,Bar
+498,Lansing,42.73,-84.55,Grand Traverse Pie Co,42.732563485331376,-84.55246216654032,Bakery
+499,Lansing,42.73,-84.55,The Loft,42.73340263125639,-84.54745857994018,Music Venue
+500,Lansing,42.73,-84.55,The Tin Can,42.733418455353195,-84.54765398640444,Dive Bar
+501,Lansing,42.73,-84.55,Palace of Jamaica,42.72912534783243,-84.55214918209253,Caribbean Restaurant
+502,Lansing,42.73,-84.55,Domino's Pizza,42.73142987717313,-84.55263331532478,Pizza Place
+503,Lansing,42.73,-84.55,Jimmy John's,42.73264292388966,-84.55238318236201,Sandwich Place
+504,Lansing,42.73,-84.55,Los Tres Amigos,42.73265391012027,-84.55179825886707,Mexican Restaurant
+505,Lansing,42.73,-84.55,PNC Bank,42.7339999,-84.551868,Bank
+506,Lansing,42.73,-84.55,Valvoline Instant Oil Change,42.730235,-84.544256,Automotive Shop
+507,Lansing,42.73,-84.55,Taco 911,42.73342384992063,-84.54742717764827,Fast Food Restaurant
+508,Lansing,42.73,-84.55,Reutter Park,42.7292579766403,-84.5542895584068,Park
+509,Lansing,42.73,-84.55,Blue Cross Blue Shield of Michigan,42.73158749268912,-84.55409109592438,Insurance Office
+510,Lansing,42.73,-84.55,AnnaBelle's Pet Station,42.727071567156536,-84.5543644643367,Pet Store
+511,St Paul,44.95,-93.09,Barrel Theory Beer Company,44.951020956886154,-93.0882581971405,Brewery
+512,St Paul,44.95,-93.09,Mears Park,44.94937075687607,-93.08791995048523,Park
+513,St Paul,44.95,-93.09,The Buttered Tin,44.95085662424983,-93.08867886914057,Bakery
+514,St Paul,44.95,-93.09,Handsome Hog,44.9495835176953,-93.08911702104533,Southern / Soul Food Restaurant
+515,St Paul,44.95,-93.09,World of Beer,44.948670067440446,-93.08806346735483,Beer Bar
+516,St Paul,44.95,-93.09,Caribou Coffee,44.9486509,-93.092294,Coffee Shop
+517,St Paul,44.95,-93.09,Tin Whiskers Brewing Co.,44.9508087242669,-93.0935402833429,Brewery
+518,St Paul,44.95,-93.09,Saint Dinette,44.94979296862983,-93.08608304303664,New American Restaurant
+519,St Paul,44.95,-93.09,Legacy Chocolates,44.9472196,-93.0895185,Dessert Shop
+520,St Paul,44.95,-93.09,Dark Horse Bar & Eatery,44.95103404999194,-93.08817120411462,New American Restaurant
+521,St Paul,44.95,-93.09,Skyway YMCA (Downtown Saint Paul),44.94932,-93.08909,Gym
+522,St Paul,44.95,-93.09,Big River Pizza,44.94967997932708,-93.0859097268215,Pizza Place
+523,St Paul,44.95,-93.09,St. Paul Farmers' Market,44.949619821535656,-93.085131162764,Farmers Market
+524,St Paul,44.95,-93.09,Black Sheep Pizza,44.95127747448526,-93.09453220688569,Pizza Place
+525,St Paul,44.95,-93.09,CHS Field,44.95061899460851,-93.0847886127842,Baseball Stadium
+526,St Paul,44.95,-93.09,Capitol Guitars,44.950927516068525,-93.09081907123178,Music Store
+527,St Paul,44.95,-93.09,Pino's Pizza,44.94745994181059,-93.09313325541979,Pizza Place
+528,St Paul,44.95,-93.09,The Bulldog Lowertown,44.95009772883297,-93.08789166584633,Bar
+529,St Paul,44.95,-93.09,Real Meal Delicatessen,44.947035874346085,-93.090567695295,American Restaurant
+530,St Paul,44.95,-93.09,Maison Darras,44.94809605740227,-93.09271746143818,French Restaurant
+531,St Paul,44.95,-93.09,Barrio Tequila Bar,44.94997433200856,-93.08808364051927,Bar
+532,St Paul,44.95,-93.09,Hyatt Place St. Paul/Downtown,44.946572406496806,-93.08721093254087,Hotel
+533,St Paul,44.95,-93.09,Keys Cafe & Bakery,44.951052201335386,-93.09449172798105,Breakfast Spot
+534,St Paul,44.95,-93.09,Ox Cart Rooftop,44.95052620198702,-93.08706277895708,Bar
+535,St Paul,44.95,-93.09,Jimmy John's,44.95207466376872,-93.09330142060412,Sandwich Place
+536,St Paul,44.95,-93.09,Saint Paul Union Depot,44.947593708848565,-93.08520946024363,Train Station
+537,St Paul,44.95,-93.09,Lowertown Dog Park,44.951180124779796,-93.08550750136175,Dog Run
+538,St Paul,44.95,-93.09,Sawatdee,44.950719491046605,-93.09373182450487,Thai Restaurant
+539,St Paul,44.95,-93.09,Lunds & Byerlys,44.95155148310619,-93.09506230039528,Supermarket
+540,St Paul,44.95,-93.09,Liquor Vault,44.952125594061265,-93.09286295283589,Liquor Store
+541,St Paul,44.95,-93.09,Caribou Coffee,44.947069118049384,-93.09293542824173,Coffee Shop
+542,St Paul,44.95,-93.09,Birch's Lowertown,44.95035379769687,-93.0855071466116,Brewery
+543,St Paul,44.95,-93.09,Hunan Garden,44.947167577921384,-93.09367819275607,Asian Restaurant
+544,St Paul,44.95,-93.09,"Black Dog, Lowertown",44.94923058150412,-93.08421865612236,Café
+545,St Paul,44.95,-93.09,Lowertown Wine & Spirits,44.9488215257319,-93.08575086748955,Liquor Store
+546,St Paul,44.95,-93.09,12welve Eyes Brewing,44.94712377843788,-93.0890616056667,Brewery
+547,St Paul,44.95,-93.09,Caribou Coffee,44.9513517,-93.0951996,Coffee Shop
+548,St Paul,44.95,-93.09,Pioneer Endicott,44.947155568915285,-93.08945068205765,Residential Building (Apartment / Condo)
+549,St Paul,44.95,-93.09,Potbelly Sandwich Shop,44.948128033523076,-93.09412530422975,Sandwich Place
+550,St Paul,44.95,-93.09,Alary's Bar,44.95024406,-93.09268974,Sports Bar
+551,St Paul,44.95,-93.09,Avis Car Rental,44.950376,-93.091437,Rental Car Location
+552,St Paul,44.95,-93.09,DoubleTree by Hilton,44.9479219,-93.0932937,Hotel
+553,St Paul,44.95,-93.09,SUBWAY,44.948253423521585,-93.09217411045074,Sandwich Place
+554,St Paul,44.95,-93.09,Octo Fish Bar,44.95016446802608,-93.08535204549425,Seafood Restaurant
+555,St Paul,44.95,-93.09,Caribou Coffee,44.94807611301412,-93.09408903121954,Coffee Shop
+556,St Paul,44.95,-93.09,Stacked Deck Brewing Co.,44.947218,-93.09495,Brewery
+557,St Paul,44.95,-93.09,Gopher Bar,44.95106444031559,-93.08871032634214,Hot Dog Joint
+558,St Paul,44.95,-93.09,Asian Express,44.94761721935492,-93.09232894475748,Asian Restaurant
+559,St Paul,44.95,-93.09,Ho Fan,44.948188640306334,-93.0939677356967,Chinese Restaurant
+560,St Paul,44.95,-93.09,Public Kitchen & Bar,44.94982228528797,-93.08816654975102,American Restaurant
+561,St Paul,44.95,-93.09,SUBWAY,44.949359330820634,-93.08856166047903,Sandwich Place
+562,St Paul,44.95,-93.09,Jimmy John's,44.94811082612466,-93.09379666907071,Sandwich Place
+563,St Paul,44.95,-93.09,Ox Cart Ale House,44.950631215987165,-93.08679428488344,Bar
+564,St Paul,44.95,-93.09,Camp Bar,44.950809699916825,-93.09408332914795,Bar
+565,St Paul,44.95,-93.09,Northern Spark,44.94769569067586,-93.08566946050166,Public Art
+566,St Paul,44.95,-93.09,Arby's,44.9482013376563,-93.0926764366086,Fast Food Restaurant
+567,St Paul,44.95,-93.09,One Two Three Sushi,44.947753162654216,-93.0920374125318,Sushi Restaurant
+568,St Paul,44.95,-93.09,Firestone Complete Auto Care,44.95120458,-93.09306058,Automotive Shop
+569,St Paul,44.95,-93.09,Galtier Roof-top Pool,44.94908521088607,-93.08928419129136,Water Park
+570,St Paul,44.95,-93.09,D. Brian's Deli - 180 East Fifth,44.94824608314496,-93.08910820972608,Deli / Bodega
+571,St Paul,44.95,-93.09,Erbert and Gerbert's,44.94777153381185,-93.09203945411387,Sandwich Place
+572,St Paul,44.95,-93.09,Asian Invasion,44.94946331399336,-93.08864978115,Food Truck
+573,St Paul,44.95,-93.09,Saint Paul Fit Body Boot Camp,44.94855677735163,-93.09063316532827,Sports Club
+574,St Paul,44.95,-93.09,Urban Wok,44.948459,-93.087441,Asian Restaurant
+575,St Paul,44.95,-93.09,The Java Express,44.94768,-93.086385,Coffee Shop
+576,St Paul,44.95,-93.09,Amanda's Deli,44.946527162248145,-93.09078848259281,Deli / Bodega
+577,St Paul,44.95,-93.09,Breeze Yogurt Island,44.946996026717876,-93.09265319433686,Frozen Yogurt Shop
+578,St Paul,44.95,-93.09,Messy Giuseppe,44.95369982059049,-93.08995648221403,Food Truck
+579,St Paul,44.95,-93.09,94D Bus Stop,44.94640075962292,-93.09164007429804,Bus Station
+580,St Paul,44.95,-93.09,Studio McCutch,44.94832241,-93.085165,Design Studio
+581,St Paul,44.95,-93.09,Celeste Hotel&Bar,44.9496,-93.09535,Hotel
+582,St Paul,44.95,-93.09,Amtrak SPUD,44.95265596713231,-93.08590435594142,Platform
+583,St Paul,44.95,-93.09,Amtrak Empire Builder 27,44.94809132635019,-93.08463691285566,Moving Target
+584,St Paul,44.95,-93.09,Northern Warehouse Artists' Cooperative,44.94929162755126,-93.08402634763867,Building
+585,Jackson,32.32,-90.21,Claires,32.32315444946289,-90.2127914428711,Accessories Store
+586,Jackson,32.32,-90.21,Areopostale,32.32315444946289,-90.2127914428711,Clothing Store
+587,Jefferson City,38.57,-92.19,Shikels Gymnasium,38.57173,-92.18847,Basketball Court
+588,Jefferson City,38.57,-92.19,Capital City Players,38.571847677985446,-92.19156983693236,Theater
+589,Helena,46.6,-112.03,Starbucks,46.59830783544445,-112.03112455454531,Coffee Shop
+590,Helena,46.6,-112.03,Kindrick Legion Field,46.59970747460002,-112.02633261680603,Baseball Stadium
+591,Helena,46.6,-112.03,Last Chance Casino,46.5973634174878,-112.03223824810307,Restaurant
+592,Helena,46.6,-112.03,Cafe Zydeco,46.596356911931714,-112.03367942537756,Southern / Soul Food Restaurant
+593,Helena,46.6,-112.03,Memorial Park,46.5993286521799,-112.02908420684939,Park
+594,Helena,46.6,-112.03,Centennial Park,46.60115953882479,-112.0337553621535,Park
+595,Helena,46.6,-112.03,RB Drive-in,46.595624,-112.028816,Burger Joint
+596,Helena,46.6,-112.03,City Brew,46.59796467623708,-112.02418897291666,Coffee Shop
+597,Lincoln,40.81,-96.68,taqueria el rey,40.81303192648378,-96.68184319747817,Mexican Restaurant
+598,Lincoln,40.81,-96.68,El Rancho,40.81371510913743,-96.68209112842287,Mexican Restaurant
+599,Lincoln,40.81,-96.68,H&R Block,40.8132433133495,-96.68291876252914,Business Service
+600,Lincoln,40.81,-96.68,AAA Lincoln,40.81399200051206,-96.67889350326732,Insurance Office
+601,Lincoln,40.81,-96.68,M & N Sandwich,40.80661241601288,-96.68218001958853,Sandwich Place
+602,Lincoln,40.81,-96.68,27 th & J normal bus stop,40.808368851653455,-96.68204209987078,Bus Stop
+603,Lincoln,40.81,-96.68,A La Carte,40.812777,-96.682591,Food Truck
+604,Lincoln,40.81,-96.68,Woods Pool And Sprayground,40.80875882321624,-96.67458512331669,Pool
+605,Carson City,39.16,-119.75,La Enchilada,39.160092,-119.75066299999999,Mexican Restaurant
+606,Carson City,39.16,-119.75,"Debug Computer, Inc.",39.159229,-119.750508,Other Repair Shop
+607,Carson City,39.16,-119.75,Strictly Scuba,39.163843508561435,-119.75296698938897,Outdoor Supply Store
+608,Concord,43.22,-71.55,The Yellow Submarine,43.22013380374759,-71.55060666417533,Sandwich Place
+609,Concord,43.22,-71.55,Boutwell's Bowling Alley,43.21759557911917,-71.54712541034975,Bowling Alley
+610,Concord,43.22,-71.55,Rite Aid,43.217298,-71.547451,Pharmacy
+611,Concord,43.22,-71.55,Circle K,43.216933000000004,-71.546231,Convenience Store
+612,Concord,43.22,-71.55,Granite State Natural Foods,43.218744739547056,-71.54878788465969,Grocery Store
+613,Concord,43.22,-71.55,Dallas Pizza,43.21821,-71.547852,Pizza Place
+614,Trenton,40.22,-74.76,Artworks,40.21846775047222,-74.76037257775073,Art Gallery
+615,Trenton,40.22,-74.76,Mill Hill Saloon,40.215759795991396,-74.76188992703548,Bar
+616,Trenton,40.22,-74.76,Settimo Cielo,40.2191354648474,-74.76520680756535,Italian Restaurant
+617,Trenton,40.22,-74.76,East Front Cafe,40.219209005494015,-74.7654340073308,Café
+618,Trenton,40.22,-74.76,Mill Hill Park,40.21785226090165,-74.76224033960082,Park
+619,Trenton,40.22,-74.76,Millhill Basement,40.21585376177711,-74.76179113485786,Rock Club
+620,Trenton,40.22,-74.76,TD Bank,40.2204146,-74.76567,Bank
+621,Trenton,40.22,-74.76,Rite Aid,40.219801000000004,-74.76284100000001,Pharmacy
+622,Trenton,40.22,-74.76,Dunkin',40.2202796,-74.7644577,Donut Shop
+623,Trenton,40.22,-74.76,Dunkin',40.22003119211488,-74.76438265401936,Donut Shop
+624,Trenton,40.22,-74.76,Capital Center Food Court,40.22040202097587,-74.7651917310543,Food Court
+625,Trenton,40.22,-74.76,Trenton Bagel Shop & Deli,40.219883,-74.764907,Bagel Shop
+626,Trenton,40.22,-74.76,Mill Hill,40.216000386508306,-74.75985469928419,Park
+627,Trenton,40.22,-74.76,River LINE Trenton,40.21825183198679,-74.7551112236497,Light Rail Station
+628,Trenton,40.22,-74.76,Columbus International Pizza,40.22028151160538,-74.7657199050399,Sandwich Place
+629,Santa Fe,35.67,-105.96,Sweetwater Harvest Kitchen,35.66653355534908,-105.95984098864594,New American Restaurant
+630,Santa Fe,35.67,-105.96,Automotive Resources,35.666288,-105.95844,Automotive Shop
+631,Santa Fe,35.67,-105.96,Counter Culture,35.6728576588827,-105.96274075615354,New American Restaurant
+632,Santa Fe,35.67,-105.96,Taco Bell,35.6723954097116,-105.96145285282127,Fast Food Restaurant
+633,Santa Fe,35.67,-105.96,Bryan Doerner - State Farm Insurance Agent,35.670391,-105.95804,Insurance Office
+634,Santa Fe,35.67,-105.96,Rail Runner: South Capitol,35.67263962410404,-105.95758901144323,Train Station
+635,Santa Fe,35.67,-105.96,The Raven Fine Consignments,35.673037,-105.96161000000001,Furniture / Home Store
+636,Santa Fe,35.67,-105.96,Molecule Design,35.673223,-105.96185700000001,Furniture / Home Store
+637,Santa Fe,35.67,-105.96,Blue Buddha Bodywork,35.66787843993359,-105.95574259757994,Massage Studio
+638,Santa Fe,35.67,-105.96,Salvador Perez,35.6712034064776,-105.95502145505488,Gym
+639,Albany,42.66,-73.78,Heartspace Yoga and Healing Arts,42.6592581495049,-73.7780178168617,Yoga Studio
+640,Albany,42.66,-73.78,Hudson River Coffee House,42.66095502465528,-73.77846419800497,Café
+641,Albany,42.66,-73.78,Crave,42.66200865788705,-73.77716135710502,Burger Joint
+642,Albany,42.66,-73.78,Cuckoo's Nest,42.661842,-73.778086,New American Restaurant
+643,Albany,42.66,-73.78,Capital Q Smokehouse,42.659220999801164,-73.78345924799807,BBQ Joint
+644,Albany,42.66,-73.78,Paesan's Pizza,42.661097357045584,-73.78178621410945,Pizza Place
+645,Albany,42.66,-73.78,Chicken Joe's,42.66002952489329,-73.78277906318537,Fried Chicken Joint
+646,Albany,42.66,-73.78,Madison's Pizza,42.66063200027803,-73.7818997976769,Pizza Place
+647,Albany,42.66,-73.78,Mr Pio Pio,42.663009,-73.775726,Latin American Restaurant
+648,Albany,42.66,-73.78,Ruby Asian Bistro,42.661290424716924,-73.78295110766638,Asian Restaurant
+649,Albany,42.66,-73.78,Saigon Pearl,42.659684,-73.780282,Vietnamese Restaurant
+650,Albany,42.66,-73.78,Last Vestige,42.66261604132951,-73.77651094764174,Music Store
+651,Albany,42.66,-73.78,Washington Tavern,42.66217451519647,-73.77860675148584,Bar
+652,Albany,42.66,-73.78,Sabatino's Liquor,42.661077,-73.777734,Liquor Store
+653,Albany,42.66,-73.78,Casey Finn's Pub and Grill,42.66060623726378,-73.78353337882518,Bar
+654,Albany,42.66,-73.78,Teeth Implants Albany,42.655551,-73.780575,Business Service
+655,Raleigh,35.77,-78.64,Duke Energy Center For The Performing Arts,35.77131353896366,-78.63955952385822,Performing Arts Venue
+656,Raleigh,35.77,-78.64,Meymandi Concert Hall,35.77096719767873,-78.63999107498213,Concert Hall
+657,Raleigh,35.77,-78.64,Raleigh Memorial Auditorium,35.771310320968915,-78.63960222469072,Performing Arts Venue
+658,Raleigh,35.77,-78.64,The Haymaker,35.77367760967885,-78.63925067129556,Cocktail Bar
+659,Raleigh,35.77,-78.64,City Plaza,35.77416373838572,-78.6401725493341,Plaza
+660,Raleigh,35.77,-78.64,Happy + Hale,35.7740826637784,-78.63952909472057,Salad Place
+661,Raleigh,35.77,-78.64,Red Hat Amphitheater,35.77370728783636,-78.64256537435926,Music Venue
+662,Columbus,39.96,-83.0,Ohio Theatre,39.9602811061592,-82.99909047530281,Theater
+663,Columbus,39.96,-83.0,Condado Tacos,39.95934342672256,-83.00001309744192,Taco Place
+664,Columbus,39.96,-83.0,Columbus Commons,39.958143920707435,-82.99866287795733,Park
+665,Columbus,39.96,-83.0,Hemingway's Coffee Nook,39.95867466388746,-82.99840770788457,Café
+666,Columbus,39.96,-83.0,Ohio Statehouse,39.9613173177356,-82.99899871587945,Capitol Building
+667,Columbus,39.96,-83.0,OSU Urban Arts Space,39.958941688041364,-83.00027518029934,Art Gallery
+668,Columbus,39.96,-83.0,Scioto Mile - Promenade/Riverfront,39.95842905427743,-83.00365829089425,Park
+669,Columbus,39.96,-83.0,"Hotel LeVeque, Autograph Collection",39.96229935639491,-83.00205926410854,Hotel
+670,Columbus,39.96,-83.0,One Line Coffee,39.96120607529633,-83.00034060155167,Coffee Shop
+671,Columbus,39.96,-83.0,Si Señor!,39.963314348269805,-82.99876887694457,Latin American Restaurant
+672,Columbus,39.96,-83.0,Market 65,39.960222116585264,-82.99792241026108,Salad Place
+673,Columbus,39.96,-83.0,Café Brioso,39.96363995001144,-83.00056843562001,Coffee Shop
+674,Columbus,39.96,-83.0,Jack & Benny's,39.9622529208021,-83.00042042352882,Breakfast Spot
+675,Columbus,39.96,-83.0,The Athletic Club Of Columbus,39.962941001949794,-82.9969388920307,Gym / Fitness Center
+676,Columbus,39.96,-83.0,Starbucks,39.96278391,-82.99819044,Coffee Shop
+677,Columbus,39.96,-83.0,The Keep,39.96211355847053,-83.00227492711895,Hotel Bar
+678,Columbus,39.96,-83.0,Moonlight Market,39.96380258156589,-82.99998522990438,Arts & Crafts Store
+679,Columbus,39.96,-83.0,Genoa Park,39.95996238913917,-83.00564165890728,Park
+680,Columbus,39.96,-83.0,Tip Top Kitchen & Cocktails,39.96377178554681,-82.99877666617621,American Restaurant
+681,Columbus,39.96,-83.0,Mitchell's Steakhouse,39.9635158,-82.9983604,Steakhouse
+682,Columbus,39.96,-83.0,Pearl Market,39.963051632495116,-82.99986362457275,Farmers Market
+683,Columbus,39.96,-83.0,Palace Theatre,39.96251516633823,-83.002333726136,Theater
+684,Columbus,39.96,-83.0,Dirty Frank's Hot Dog Palace,39.95746705489534,-82.99526451895258,Hot Dog Joint
+685,Columbus,39.96,-83.0,El Camino Inn,39.957693357183466,-82.99527179301359,Bar
+686,Columbus,39.96,-83.0,Milestone 229,39.95666065441175,-83.00381250090285,American Restaurant
+687,Columbus,39.96,-83.0,Zeroz,39.963303,-83.000334,Leather Goods Store
+688,Columbus,39.96,-83.0,Buckeye Bourbon House,39.96372147121163,-82.99994989570284,Whisky Bar
+689,Columbus,39.96,-83.0,Southern Theatre,39.955823328385854,-82.99898478399689,Theater
+690,Columbus,39.96,-83.0,Red Velvet Cafe,39.957593865255745,-82.99516993043794,Café
+691,Columbus,39.96,-83.0,The Columbus Athenaeum,39.963530852999355,-82.99638762164376,Event Space
+692,Columbus,39.96,-83.0,Elia Athenian Grill,39.962809,-83.000553,Greek Restaurant
+693,Columbus,39.96,-83.0,Due Amici Restaurant,39.96375935453356,-82.99882086606961,Italian Restaurant
+694,Columbus,39.96,-83.0,Renaissance Columbus Downtown Hotel,39.9634740888355,-82.99814923417732,Hotel
+695,Columbus,39.96,-83.0,Pub Mahone,39.96361633561406,-82.9999144039499,Irish Pub
+696,Columbus,39.96,-83.0,Fresh 50,39.96346037653453,-83.00077710161985,Asian Restaurant
+697,Columbus,39.96,-83.0,Plantain Cafe,39.96383399686143,-82.99861029918011,Cuban Restaurant
+698,Columbus,39.96,-83.0,Seven Studios,39.95678731716389,-82.99689287582387,Yoga Studio
+699,Columbus,39.96,-83.0,Little Palace,39.95762741996949,-82.99523895297082,American Restaurant
+700,Columbus,39.96,-83.0,Cafe Illyria,39.96084745729233,-82.99446129432336,Greek Restaurant
+701,Columbus,39.96,-83.0,Battelle Riverfront Park,39.96275566520133,-83.004602759281,Park
+702,Columbus,39.96,-83.0,WaterFire Columbus,39.95999290167962,-83.00543203128066,Theater
+703,Columbus,39.96,-83.0,Pitabilities Food Truck,39.959962229859585,-83.00546326316396,Food Truck
+704,Oklahoma City,35.48,-97.53,Fat Dog Kitchen & Bar,35.48093916569215,-97.5298506334797,Bar
+705,Oklahoma City,35.48,-97.53,7 Eleven,35.47902180357398,-97.53037464486718,Convenience Store
+706,Oklahoma City,35.48,-97.53,Family Dollar,35.480086,-97.528165,Discount Store
+707,Oklahoma City,35.48,-97.53,Istvan Gallery,35.480515,-97.52991020679474,Art Gallery
+708,Salem,44.93,-123.03,RAM Restaurant & Brewery,44.93286157469885,-123.02956587150828,Brewery
+709,Salem,44.93,-123.03,Enterprise Rent-A-Car,44.929509,-123.0303206,Rental Car Location
+710,Salem,44.93,-123.03,Honeywood Winery,44.92617,-123.02834299999999,Wine Shop
+711,Salem,44.93,-123.03,Amtrak Station (SLM),44.93237115589951,-123.02819564960681,Train Station
+712,Salem,44.93,-123.03,Greyhound Bus Lines,44.932338730432534,-123.02822560071944,Bus Station
+713,Salem,44.93,-123.03,Creekside Dining @ Salem Hospital,44.93290732593064,-123.03291258592364,American Restaurant
+714,Harrisburg,40.27,-76.88,Subway Cafe,40.27205364343742,-76.87828343493702,Sandwich Place
+715,Harrisburg,40.27,-76.88,Jackson House,40.26862785443989,-76.88506555373196,Burger Joint
+716,Harrisburg,40.27,-76.88,Goodwill Donation Center,40.269311029555396,-76.8759609194052,Non-Profit
+717,Harrisburg,40.27,-76.88,Goodwill Keystone Area,40.26944096888491,-76.87481403350829,Non-Profit
+718,Harrisburg,40.27,-76.88,Office Of UC Benefits Break Room,40.2688210652441,-76.88275388503533,Cafeteria
+719,Harrisburg,40.27,-76.88,Cafe Cornelius,40.26841091664385,-76.88312225855128,Café
+720,Harrisburg,40.27,-76.88,Theo's,40.27145026261492,-76.883550379764,Food
+721,Harrisburg,40.27,-76.88,Pheaa Fitness Center,40.27153414807155,-76.88359668412491,Gym
+722,Harrisburg,40.27,-76.88,4 Aces Lounge,40.272495,-76.876513,Bar
+723,San Juan,18.22,-66.59,Plaza De Jayuya,18.218786749258722,-66.59246605562265,Plaza
+724,San Juan,18.22,-66.59,Patria Mia,18.220799683752837,-66.59160642605659,Bar
+725,San Juan,18.22,-66.59,Hotel Posada Jayuya,18.21927,-66.590172,Hotel
+726,Providence,41.82,-71.42,Bayberry Beer Hall,41.81912285277579,-71.42214144430713,Beer Garden
+727,Providence,41.82,-71.42,White Electric Coffee,41.81843540948103,-71.41995528412897,Café
+728,Providence,41.82,-71.42,The Grange,41.821241,-71.422588,Vegetarian / Vegan Restaurant
+729,Providence,41.82,-71.42,Long Live Beerworks,41.81896246233104,-71.42379944073353,Brewery
+730,Providence,41.82,-71.42,Camille's,41.82279443053858,-71.42203892473567,Italian Restaurant
+731,Providence,41.82,-71.42,Kitchen,41.82052660668831,-71.42204356278741,Breakfast Spot
+732,Providence,41.82,-71.42,Trinity Repertory Company,41.82204752677112,-71.41630994310545,Theater
+733,Providence,41.82,-71.42,Birch,41.82205289694188,-71.41614696399039,American Restaurant
+734,Providence,41.82,-71.42,Gracie's,41.822057,-71.4158905,New American Restaurant
+735,Providence,41.82,-71.42,AS220,41.82161775968584,-71.41611039725122,Art Gallery
+736,Providence,41.82,-71.42,Foo(d) at AS220,41.82158703223535,-71.4161054516448,New American Restaurant
+737,Providence,41.82,-71.42,Nice Slice,41.81805,-71.420883,Pizza Place
+738,Providence,41.82,-71.42,Providence Coal Fired Pizza,41.82146552611334,-71.41483650122495,Pizza Place
+739,Providence,41.82,-71.42,North Bakery,41.818716628990686,-71.42475625783672,Bakery
+740,Providence,41.82,-71.42,Pizza J,41.8175656987486,-71.42450148471154,Pizza Place
+741,Providence,41.82,-71.42,Massimo,41.82321697089406,-71.4223695740874,Italian Restaurant
+742,Providence,41.82,-71.42,Dunkin' Donuts Center,41.82359319449486,-71.4179720824938,Hockey Arena
+743,Providence,41.82,-71.42,Bolt Coffee Company,41.82318354339503,-71.4160093570041,Café
+744,Providence,41.82,-71.42,The Dean,41.82325470173459,-71.41596878266694,Hotel
+745,Providence,41.82,-71.42,The Dark Lady,41.82220295891238,-71.41525465692274,Gay Bar
+746,Providence,41.82,-71.42,North,41.823245763990265,-71.41601529222967,Asian Restaurant
+747,Providence,41.82,-71.42,Providence Bruins,41.823621516195225,-71.41790349231059,Hockey Arena
+748,Providence,41.82,-71.42,Joe Marzilli's Old Canteen Italian Restaurant,41.82326326475334,-71.42194648156656,Italian Restaurant
+749,Providence,41.82,-71.42,Bravo Brasserie Restaurant,41.82184033869846,-71.41632512976004,Gastropub
+750,Providence,41.82,-71.42,Rosalina,41.82203929657501,-71.41567286010714,Italian Restaurant
+751,Providence,41.82,-71.42,The Classic Cafe,41.81748003602543,-71.42242107951769,Diner
+752,Providence,41.82,-71.42,Angelo's Civita Farnese Restaurant,41.823352281549575,-71.4228865062135,Italian Restaurant
+753,Providence,41.82,-71.42,Broadway Bistro,41.82104581433357,-71.42437131224165,American Restaurant
+754,Providence,41.82,-71.42,The Vig,41.82283806821498,-71.41834447119018,Bar
+755,Providence,41.82,-71.42,Alley Cat,41.82230002057265,-71.41539564008349,Bar
+756,Providence,41.82,-71.42,Wise Guys Deli and Pizza,41.823327807176575,-71.42235617785595,Italian Restaurant
+757,Providence,41.82,-71.42,The Nitro Bar,41.82077862176081,-71.42503590524497,Coffee Shop
+758,Providence,41.82,-71.42,Trinity Brewhouse,41.8224683066776,-71.41686976721512,Brewery
+759,Providence,41.82,-71.42,The Slow Rhode,41.81897521816813,-71.423851388798,New American Restaurant
+760,Providence,41.82,-71.42,Andino's Italian Restaurant,41.82341730353549,-71.42378856301664,Italian Restaurant
+761,Providence,41.82,-71.42,SUBWAY,41.81844394536962,-71.42017557729815,Sandwich Place
+762,Providence,41.82,-71.42,The Boombox,41.8229487108719,-71.4155708218203,Karaoke Bar
+763,Providence,41.82,-71.42,Cassarino's,41.82339836810756,-71.42381828721088,Italian Restaurant
+764,Providence,41.82,-71.42,Black Sheep,41.821143343466225,-71.41527023836107,Bar
+765,Providence,41.82,-71.42,Bombay Club,41.822940005538925,-71.42378770906531,Indian Restaurant
+766,Providence,41.82,-71.42,Citizen's Bank,41.8176053,-71.42346549999999,Bank
+767,Providence,41.82,-71.42,Bubble Tea House,41.81745121651349,-71.42233443696527,Bubble Tea Shop
+768,Providence,41.82,-71.42,Providence Pizza Co,41.81800408705946,-71.42099350724261,Pizza Place
+769,Providence,41.82,-71.42,Federal Hill Pineapple,41.82314153997187,-71.42203330993652,Sculpture Garden
+770,Providence,41.82,-71.42,Dunkin',41.823261651081026,-71.42186070190805,Donut Shop
+771,Providence,41.82,-71.42,Riccotti's of Federal Hill,41.823404,-71.422332,Sandwich Place
+772,Providence,41.82,-71.42,Bombay Club,41.822922,-71.423955,Indian Restaurant
+773,Providence,41.82,-71.42,Mr Pocket,41.823195,-71.423736,Sandwich Place
+774,Providence,41.82,-71.42,Chestnut Street Cafe,41.819458,-71.414246,Café
+775,Columbia,34.0,-81.04,Cupcake Downsouth,34.00024960072519,-81.03884138407942,Cupcake Shop
+776,Columbia,34.0,-81.04,Motor Supply Co. Bistro,33.99978129007932,-81.03739639187536,American Restaurant
+777,Columbia,34.0,-81.04,Twisted Spur Brewing,33.9991561,-81.041038,Brewery
+778,Columbia,34.0,-81.04,Starbucks,33.99995431,-81.03881245,Coffee Shop
+779,Columbia,34.0,-81.04,Smallsugar,33.999536,-81.041099,Bakery
+780,Columbia,34.0,-81.04,M Vista,34.000319649587134,-81.04213542590925,Asian Restaurant
+781,Columbia,34.0,-81.04,Panera Bread,34.00042994020811,-81.03727117180824,Bakery
+782,Columbia,34.0,-81.04,Wet Willie's,33.99909853903681,-81.0401739233899,Bar
+783,Columbia,34.0,-81.04,929 Kitchen & Bar,34.000247052943664,-81.0373548374296,Korean Restaurant
+784,Columbia,34.0,-81.04,Tsunami Sushi Restaurant,33.99848653790214,-81.04034245014604,Sushi Restaurant
+785,Columbia,34.0,-81.04,Menkoi Ramen House - Columbia,34.00035520779705,-81.03654884460538,Noodle House
+786,Columbia,34.0,-81.04,The Oyster Bar,33.999699995749204,-81.0369635088418,Seafood Restaurant
+787,Columbia,34.0,-81.04,Aloft Columbia Downtown,34.0012288,-81.0394067,Hotel
+788,Columbia,34.0,-81.04,Blue Marlin,34.00045393559489,-81.03878846325041,Seafood Restaurant
+789,Columbia,34.0,-81.04,Coa Agaveria y Cocina,34.000963552321885,-81.03978365765079,Mexican Restaurant
+790,Columbia,34.0,-81.04,Gervais & Vine,33.998294276235534,-81.04263448247637,Tapas Restaurant
+791,Columbia,34.0,-81.04,Hyatt Place Columbia/Downtown/The Vista,33.99999030005569,-81.03939161031595,Hotel
+792,Columbia,34.0,-81.04,Grill Marks,33.99929786625601,-81.04061884028572,Burger Joint
+793,Columbia,34.0,-81.04,Garden Bistro,34.0008019254259,-81.03749904953588,Sandwich Place
+794,Columbia,34.0,-81.04,Mellow Mushroom,34.00055,-81.036443,Pizza Place
+795,Columbia,34.0,-81.04,Pearlz Oyster Bar,34.00018833886293,-81.03690013544077,Seafood Restaurant
+796,Columbia,34.0,-81.04,Five Guys,33.99893689060914,-81.03693933302854,Burger Joint
+797,Columbia,34.0,-81.04,Liberty Tap Room & Grill,33.999308196869144,-81.03846610510678,Bar
+798,Columbia,34.0,-81.04,Marble Slab Creamery,34.000456645173635,-81.0367667222613,Ice Cream Shop
+799,Columbia,34.0,-81.04,Jason's Deli,33.999857300902036,-81.03901178258894,Deli / Bodega
+800,Columbia,34.0,-81.04,The Vista,33.99966,-81.038498,Neighborhood
+801,Columbia,34.0,-81.04,The Backpacker,33.99925868879843,-81.04284624107251,Outdoor Supply Store
+802,Columbia,34.0,-81.04,OCCO skin studio,33.99879799876525,-81.04330124475702,Spa
+803,Columbia,34.0,-81.04,If Art Gallery,34.000273,-81.039056,Art Gallery
+804,Columbia,34.0,-81.04,Art Bar,34.00069647140825,-81.03726202198486,Bar
+805,Columbia,34.0,-81.04,LongHorn Steakhouse,33.99968707322815,-81.038102629645,Steakhouse
+806,Columbia,34.0,-81.04,Trustus Theatre,33.99895545171388,-81.04441340172262,Theater
+807,Columbia,34.0,-81.04,Kaminsky's Dessert Cafe,34.00002148981217,-81.03709252133517,Dessert Shop
+808,Columbia,34.0,-81.04,Chipotle Mexican Grill,33.99895231234734,-81.0428677251486,Mexican Restaurant
+809,Columbia,34.0,-81.04,Publix,33.998129015502435,-81.04448328560952,Grocery Store
+810,Columbia,34.0,-81.04,Cola's,34.001190291450456,-81.03561733908818,American Restaurant
+811,Columbia,34.0,-81.04,PT's 1109,33.99993357519055,-81.03505476180959,Gay Bar
+812,Columbia,34.0,-81.04,Hilton,33.9982303,-81.036221,Hotel
+813,Columbia,34.0,-81.04,Rue 77,34.00221716285473,-81.03611788425336,New American Restaurant
+814,Columbia,34.0,-81.04,SpringHill Suites by Marriott,33.9994904467764,-81.04535937309265,Hotel
+815,Columbia,34.0,-81.04,Twin Peaks,33.998191,-81.042999,American Restaurant
+816,Columbia,34.0,-81.04,Ruth's Chris Steak House - Columbia,33.9985873,-81.0364475,Steakhouse
+817,Columbia,34.0,-81.04,Tin Roof,33.998615,-81.035262,Bar
+818,Columbia,34.0,-81.04,Hertz,33.997746,-81.044392,Rental Car Location
+819,Columbia,34.0,-81.04,Expecting Well Maternity Spa,33.998136463416,-81.04406292098705,Spa
+820,Columbia,34.0,-81.04,F-Stop Camera Shop,33.99852702541112,-81.04503233333334,Hobby Shop
+821,Pierre,44.37,-100.34,South Dakota Cultural Heritage Center,44.372948,-100.33788,Museum
+822,Pierre,44.37,-100.34,YMCA,44.37097405662262,-100.33918849717448,Gym
+823,Pierre,44.37,-100.34,Hilger's Gulch Park,44.36976820749073,-100.34171167454932,Park
+824,Pierre,44.37,-100.34,Riggs Field,44.369284362417595,-100.33753395080566,Baseball Field
+825,Pierre,44.37,-100.34,Fighting Stallions Memorial,44.366155129628744,-100.34284472465515,Monument / Landmark
+826,Pierre,44.37,-100.34,PAYSA Ice Arena,44.37215177407968,-100.34534618130297,Skating Rink
+827,Nashville,36.17,-86.78,Musicians Hall of Fame,36.16799663614008,-86.7822829724384,Museum
+828,Nashville,36.17,-86.78,Live On The Green Music Festival,36.166575269350744,-86.77844916807649,Music Venue
+829,Nashville,36.17,-86.78,Public Square Park,36.166513699347426,-86.77843935333945,Park
+830,Nashville,36.17,-86.78,Pastime,36.170999479970654,-86.78233015424676,Sports Bar
+831,Nashville,36.17,-86.78,Nashville Municipal Auditorium,36.16746702495051,-86.78172227270369,Concert Hall
+832,Nashville,36.17,-86.78,Metropolitan Courthouse & Public Square,36.16752171296523,-86.77843811765159,Courthouse
+833,Nashville,36.17,-86.78,Dunkin',36.16610588064221,-86.78171848472778,Donut Shop
+834,Nashville,36.17,-86.78,Jonathan’s Grille,36.171034,-86.782317,American Restaurant
+835,Nashville,36.17,-86.78,War Memorial Sundeck,36.167622255683675,-86.78333666169168,Plaza
+836,Austin,30.27,-97.75,Walton's Fancy and Staple,30.26968638738693,-97.74892784858713,Deli / Bodega
+837,Austin,30.27,-97.75,Austin Urban Vet Center,30.26940387440138,-97.75029814179358,Pet Store
+838,Austin,30.27,-97.75,CorePower Yoga,30.2693243,-97.751798,Yoga Studio
+839,Austin,30.27,-97.75,Fixe Austin,30.26878092483895,-97.74857805084113,Restaurant
+840,Austin,30.27,-97.75,Juan Pelota Café,30.26795346525767,-97.74936484992469,Coffee Shop
+841,Austin,30.27,-97.75,Irene's,30.27011315821582,-97.75119363696481,Diner
+842,Austin,30.27,-97.75,Wu Chow,30.268493015327884,-97.7479603694981,Chinese Restaurant
+843,Austin,30.27,-97.75,BookPeople,30.271786996839463,-97.75304367177156,Bookstore
+844,Austin,30.27,-97.75,Merit Coffee,30.267658502107178,-97.75209346310514,Coffee Shop
+845,Austin,30.27,-97.75,Whole Foods Market,30.270783002822224,-97.75363850481556,Grocery Store
+846,Austin,30.27,-97.75,Whole Foods Lamar Bistro,30.270947067595255,-97.75355882944697,American Restaurant
+847,Austin,30.27,-97.75,Trader Joe's,30.267584736117684,-97.75268714205328,Grocery Store
+848,Austin,30.27,-97.75,True Food Kitchen,30.267194,-97.752134,New American Restaurant
+849,Austin,30.27,-97.75,Royal Blue Grocery,30.267680657268418,-97.74934935480407,Grocery Store
+850,Austin,30.27,-97.75,Whole Foods Roof Patio,30.270902993392482,-97.75362062452638,Grocery Store
+851,Austin,30.27,-97.75,Whole Foods Market Global Support Offices,30.270579,-97.75349,Grocery Store
+852,Austin,30.27,-97.75,Republic Square,30.267722,-97.747331,Park
+853,Austin,30.27,-97.75,REI,30.2718484,-97.7532213,Sporting Goods Shop
+854,Austin,30.27,-97.75,Austin Farmers Market,30.267291107820498,-97.74766222639185,Farmers Market
+855,Austin,30.27,-97.75,Tiniest Bar In Texas,30.269667271100275,-97.7530157587751,Bar
+856,Austin,30.27,-97.75,The Roosevelt Room,30.267842,-97.746242,Cocktail Bar
+857,Austin,30.27,-97.75,Waterloo Records,30.271825661662838,-97.75407344495409,Record Shop
+858,Austin,30.27,-97.75,Ballet Austin,30.26643595845547,-97.74877902174929,Dance Studio
+859,Austin,30.27,-97.75,The Baked Bear,30.267235435168693,-97.75275022670726,Ice Cream Shop
+860,Austin,30.27,-97.75,North Italia,30.265800454402395,-97.7491856783774,Italian Restaurant
+861,Austin,30.27,-97.75,24 Diner,30.271858001953817,-97.7539821602583,Diner
+862,Austin,30.27,-97.75,Super Burrito,30.269595214438702,-97.75286286545833,Burrito Place
+863,Austin,30.27,-97.75,Amy's Ice Creams,30.271885945931185,-97.75451564017992,Ice Cream Shop
+864,Austin,30.27,-97.75,Flower Child,30.265865702077583,-97.74946749913295,Gluten-free Restaurant
+865,Austin,30.27,-97.75,Le Politique Austin,30.265708490656316,-97.74914100294949,French Restaurant
+866,Austin,30.27,-97.75,Snap Kitchen,30.27190425480502,-97.75463184144924,American Restaurant
+867,Austin,30.27,-97.75,Lush,30.27200437262845,-97.75449559092522,Cosmetics Shop
+868,Austin,30.27,-97.75,Maiko Sushi Lounge,30.268840769713155,-97.74572426745475,Sushi Restaurant
+869,Austin,30.27,-97.75,Mecca Gym & Spa,30.27132531821586,-97.75443505409628,Gym
+870,Austin,30.27,-97.75,Austin's Habibi,30.26958041251299,-97.75295896596872,Mediterranean Restaurant
+871,Austin,30.27,-97.75,West Elm,30.270375112766878,-97.75506576874218,Furniture / Home Store
+872,Austin,30.27,-97.75,Rooftop Garden,30.26598724087102,-97.75171839494737,Garden
+873,Austin,30.27,-97.75,Fleet Feet,30.267773669112547,-97.75253891944885,Sporting Goods Shop
+874,Austin,30.27,-97.75,Duncan Park,30.273787956012754,-97.75132821406633,Park
+875,Austin,30.27,-97.75,Counter Cafe,30.27257021894582,-97.75364298111559,Diner
+876,Austin,30.27,-97.75,Anthropologie,30.271961716970345,-97.75361568140342,Women's Store
+877,Austin,30.27,-97.75,Paper Source,30.27107782744416,-97.75433117671032,Paper / Office Supplies Store
+878,Austin,30.27,-97.75,Allegro Coffee Company,30.27098773109364,-97.7536228692091,Coffee Shop
+879,Austin,30.27,-97.75,Moonlight Tower (9th & Guadalupe),30.271521387805628,-97.74510383605957,Lighthouse
+880,Austin,30.27,-97.75,Pure Austin Fitness,30.269557187004757,-97.75415073697854,Gym
+881,Austin,30.27,-97.75,Cookbook Bar & Café,30.266299588319207,-97.75126833805469,Restaurant
+882,Austin,30.27,-97.75,Bowie BBQ,30.270818825734224,-97.75352756828099,BBQ Joint
+883,Austin,30.27,-97.75,Juice + Smoothies,30.270981448543566,-97.75360454973128,Juice Bar
+884,Austin,30.27,-97.75,Starbucks,30.269783,-97.753914,Coffee Shop
+885,Austin,30.27,-97.75,lululemon athletica,30.271997423223393,-97.7546109259128,Clothing Store
+886,Austin,30.27,-97.75,BookPeople Cafe,30.271971063714485,-97.75321024949399,Coffee Shop
+887,Austin,30.27,-97.75,By George,30.271314396080836,-97.75442847288245,Clothing Store
+888,Austin,30.27,-97.75,Office Depot,30.269519928967792,-97.75375127792358,Paper / Office Supplies Store
+889,Austin,30.27,-97.75,Wood Fired Italian Sandwiches (food trailer),30.269547454779808,-97.75287212409242,Sandwich Place
+890,Austin,30.27,-97.75,Jackson Ruiz Seaholm,30.267362037294873,-97.7526652063542,Health & Beauty Service
+891,Austin,30.27,-97.75,Free People,30.27118937277706,-97.7546239458898,Boutique
+892,Salt Lake City,40.75,-111.89,Oh Mai,40.750809999999994,-111.888575,Vietnamese Restaurant
+893,Salt Lake City,40.75,-111.89,Proper Burger,40.750376375626644,-111.89060843781871,Burger Joint
+894,Salt Lake City,40.75,-111.89,Epic Brewing Company,40.75113342551712,-111.88781913990655,Brewery
+895,Salt Lake City,40.75,-111.89,La-Cai Noodle House,40.74820650220776,-111.88797871944917,Noodle House
+896,Salt Lake City,40.75,-111.89,The Republican,40.74929475144816,-111.88785678984694,Pub
+897,Salt Lake City,40.75,-111.89,Thai Chilli,40.75032887786386,-111.88887787247548,Thai Restaurant
+898,Salt Lake City,40.75,-111.89,Tacos El Toro,40.75213717765769,-111.88861005114956,Food Stand
+899,Salt Lake City,40.75,-111.89,Proper Brewing Company,40.75048586570927,-111.89067512384078,Brewery
+900,Salt Lake City,40.75,-111.89,Tacos Don Rafa,40.752261702133204,-111.8884703182771,Food Stand
+901,Salt Lake City,40.75,-111.89,Publik Coffee Roasters,40.747803,-111.8935,Coffee Shop
+902,Salt Lake City,40.75,-111.89,The Spot,40.75030218967834,-111.89144059670132,Dive Bar
+903,Salt Lake City,40.75,-111.89,Sapa,40.75354721436022,-111.88851516232371,Sushi Restaurant
+904,Salt Lake City,40.75,-111.89,Blue Nile,40.752384,-111.887667,Ethiopian Restaurant
+905,Salt Lake City,40.75,-111.89,Tinwell,40.750816,-111.890134,Dive Bar
+906,Salt Lake City,40.75,-111.89,Randy's Records,40.75,-111.88622,Record Shop
+907,Salt Lake City,40.75,-111.89,Laziz Kitchen,40.749403638156195,-111.89562262753705,Middle Eastern Restaurant
+908,Salt Lake City,40.75,-111.89,Water Witch,40.74954904378988,-111.89584180638987,Cocktail Bar
+909,Salt Lake City,40.75,-111.89,Duffy's Tavern,40.74887281185285,-111.89140616854507,Bar
+910,Salt Lake City,40.75,-111.89,Sushi Burrito,40.75170969101523,-111.88567035681905,Sushi Restaurant
+911,Salt Lake City,40.75,-111.89,Capital City Antique Mall,40.748252052334664,-111.89372117323279,Antique Shop
+912,Salt Lake City,40.75,-111.89,Purgatory,40.753901260458356,-111.88890670106693,Bar
+913,Salt Lake City,40.75,-111.89,Chip Cookies,40.750156,-111.886375,Bakery
+914,Salt Lake City,40.75,-111.89,Subway,40.74737500458187,-111.89165203590983,Sandwich Place
+915,Salt Lake City,40.75,-111.89,Papa John's Pizza,40.7495094894437,-111.88734634168145,Pizza Place
+916,Salt Lake City,40.75,-111.89,Passion Flour Patisserie,40.749962711345155,-111.88604245888318,Bakery
+917,Salt Lake City,40.75,-111.89,Enterprise Rent-A-Car,40.75096132799266,-111.8878226765309,Rental Car Location
+918,Salt Lake City,40.75,-111.89,7-Eleven,40.75251352164038,-111.88578202391,Convenience Store
+919,Salt Lake City,40.75,-111.89,Taco Time,40.751531,-111.888638,Taco Place
+920,Salt Lake City,40.75,-111.89,Arctic Circle,40.750087947701644,-111.88711828889332,Fast Food Restaurant
+921,Salt Lake City,40.75,-111.89,Wells Fargo,40.7522794,-111.8913727,Bank
+922,Salt Lake City,40.75,-111.89,7-Eleven,40.7514767,-111.8945621,Convenience Store
+923,Salt Lake City,40.75,-111.89,Taffy Town Inc,40.751901673583696,-111.89294176789099,Candy Store
+924,Salt Lake City,40.75,-111.89,AlphaGraphics,40.74949109447594,-111.894545773971,Print Shop
+925,Montpelier,44.27,-72.57,Birchgrove Baking,44.265919749671404,-72.56915328434548,Bakery
+926,Montpelier,44.27,-72.57,Meadow Mart,44.266363,-72.569125,Convenience Store
+927,Montpelier,44.27,-72.57,North Branch Trail,44.274013463376576,-72.5705090515956,Trail
+928,Richmond,37.54,-77.46,Thomas Square Park,37.5409854480606,-77.46003284449434,Park
+929,Richmond,37.54,-77.46,The Boys & Girls Club,37.538132,-77.461589,Gym
+930,Richmond,37.54,-77.46,DIRECTV,37.536954951447285,-77.45635986328125,Business Service
+931,Richmond,37.54,-77.46,Randolph Pool,37.544003588626815,-77.46215738313902,Pool
+932,Olympia,47.04,-122.89,Jimmy John's,47.039411,-122.88990600000001,Sandwich Place
+933,Olympia,47.04,-122.89,Casa Mia Olympia,47.04242323420797,-122.89195175128832,Italian Restaurant
+934,Olympia,47.04,-122.89,SUBWAY,47.039391142872326,-122.89105074541584,Sandwich Place
+935,Olympia,47.04,-122.89,Jack in the Box,47.04416861518535,-122.89219871163368,Fast Food Restaurant
+936,Olympia,47.04,-122.89,The Rock Wood Fired Pizza,47.0395809377046,-122.89212079627016,Pizza Place
+937,Olympia,47.04,-122.89,Howard's Cleaners,47.03967,-122.89418,Dry Cleaner
+938,Charleston,38.35,-81.63,Capitol Market,38.35216836434211,-81.62764220517711,Farmers Market
+939,Charleston,38.35,-81.63,Taylor Books,38.350434,-81.633937,Bookstore
+940,Charleston,38.35,-81.63,Broadway,38.348094058744095,-81.63111028175246,Bar
+941,Charleston,38.35,-81.63,Fresh Seafood Company,38.352171161278186,-81.6277559285906,Seafood Restaurant
+942,Charleston,38.35,-81.63,Clay Center for the Arts & Sciences,38.3483607363401,-81.62981494224043,Art Museum
+943,Charleston,38.35,-81.63,Purple Onion,38.35248109104869,-81.6280704431977,Farmers Market
+944,Charleston,38.35,-81.63,Pies and Pints Pizzeria,38.35035365947091,-81.63429450652433,Pizza Place
+945,Charleston,38.35,-81.63,Ellen's Homemade Ice Cream,38.35043902783112,-81.63422101505829,Ice Cream Shop
+946,Charleston,38.35,-81.63,Soho's Capitol Market,38.35173433748,-81.62719477599424,Tapas Restaurant
+947,Charleston,38.35,-81.63,Graziano's,38.35076531290113,-81.63340717969577,Pizza Place
+948,Charleston,38.35,-81.63,Appalachian Power Park,38.34913244591983,-81.62578403949738,Baseball Stadium
+949,Charleston,38.35,-81.63,Bear's Den,38.351717,-81.631999,American Restaurant
+950,Charleston,38.35,-81.63,YWCA,38.34712776687881,-81.6308660832974,Gym
+951,Charleston,38.35,-81.63,Charleston Bread,38.352529541640266,-81.62954035465594,Bakery
+952,Charleston,38.35,-81.63,Soho's,38.352208,-81.627415,American Restaurant
+953,Charleston,38.35,-81.63,Swiftwater Cafe,38.35159616147454,-81.63241510500646,Café
+954,Charleston,38.35,-81.63,Sitar of India,38.35152397830582,-81.6339923833867,Indian Restaurant
+955,Charleston,38.35,-81.63,The Wine & Cheese Shop,38.352367057578505,-81.6279421251053,Gourmet Shop
+956,Charleston,38.35,-81.63,Black Sheep Burritos & Brews,38.350571365147324,-81.63561063372569,Burrito Place
+957,Charleston,38.35,-81.63,First Watch - Charleston,38.350788,-81.635295,Breakfast Spot
+958,Charleston,38.35,-81.63,Atmosphere Ultra-lounge,38.35140600220503,-81.63377018917764,Gay Bar
+959,Charleston,38.35,-81.63,Paterno's at the Park,38.3482092,-81.6252864,Italian Restaurant
+960,Charleston,38.35,-81.63,Mission Savvy Juice Bar & Cafe,38.349252,-81.633889,Café
+961,Charleston,38.35,-81.63,Huntington Bank,38.34845492,-81.63113634,Bank
+962,Charleston,38.35,-81.63,Quaker Steak & Lube,38.34841710745008,-81.62520670422624,Wings Joint
+963,Charleston,38.35,-81.63,Enterprise Rent-A-Car,38.35043,-81.626361,Rental Car Location
+964,Charleston,38.35,-81.63,FedEx Office Print & Ship Center,38.35132025861124,-81.63183116931151,Shipping Store
+965,Charleston,38.35,-81.63,Park Place Stadium Cinemas,38.35261354664132,-81.63336508676265,Movie Theater
+966,Charleston,38.35,-81.63,Sahara,38.35185739312881,-81.63420193509923,Middle Eastern Restaurant
+967,Charleston,38.35,-81.63,Firestone Complete Auto Care,38.35049238,-81.63181626,Automotive Shop
+968,Charleston,38.35,-81.63,Adelphia Sports Bar & Grille,38.350310998778305,-81.63443189838485,Sports Bar
+969,Charleston,38.35,-81.63,The Block,38.34995959639611,-81.6351645445867,Miscellaneous Shop
+970,Charleston,38.35,-81.63,Charleston Capitol Hotel,38.34953995181816,-81.62995705082116,Hotel
+971,Charleston,38.35,-81.63,Dohm Cycles,38.351469,-81.625078,Sporting Goods Shop
+972,Charleston,38.35,-81.63,Crossfit elite fitness,38.351469,-81.625078,College Gym
+973,Charleston,38.35,-81.63,Power Alley Grill,38.34828951458355,-81.62514496810539,American Restaurant
+974,Charleston,38.35,-81.63,Contemporary Galleries,38.349994,-81.624306,Furniture / Home Store
+975,Madison,43.07,-89.38,Monona Terrace Roof Top,43.07159943557628,-89.38043706679233,Sculpture Garden
+976,Madison,43.07,-89.38,The Madison Club,43.07253527611156,-89.38091858970246,American Restaurant
+977,Madison,43.07,-89.38,Monona Terrace Community and Convention Center,43.071523155465094,-89.37998856100596,Convention Center
+978,Madison,43.07,-89.38,Tornado Room Steakhouse,43.072508,-89.384554,Steakhouse
+979,Madison,43.07,-89.38,Capitol Chophouse,43.07289058601941,-89.38052084540362,Steakhouse
+980,Madison,43.07,-89.38,Tempest Oyster Bar,43.07403665807557,-89.37952058842673,Seafood Restaurant
+981,Madison,43.07,-89.38,Marigold Kitchen,43.07424136812649,-89.38128628948735,Café
+982,Madison,43.07,-89.38,Osteria Papavero,43.0740783709218,-89.37928815957669,Italian Restaurant
+983,Madison,43.07,-89.38,Johnny Delmonico's Steakhouse,43.07404193801975,-89.38122689554076,American Restaurant
+984,Madison,43.07,-89.38,DLUX,43.073490591555114,-89.38273955400622,New American Restaurant
+985,Madison,43.07,-89.38,Merchant,43.07414664263371,-89.38100937738655,New American Restaurant
+986,Madison,43.07,-89.38,Starbucks,43.07389817,-89.38273627,Coffee Shop
+987,Madison,43.07,-89.38,Shamrock Bar & Grille,43.07256870568885,-89.38471709270198,Gay Bar
+988,Madison,43.07,-89.38,Lake Monona,43.06979928770583,-89.37769364241956,Lake
+989,Madison,43.07,-89.38,Pontoon Porch,43.06860077001028,-89.37899366964878,Lake
+990,Madison,43.07,-89.38,Lake Vista Cafe,43.07192410381834,-89.37940485051145,Coffee Shop
+991,Madison,43.07,-89.38,Lake monona barge,43.07368,-89.37718,Boat or Ferry
+992,Madison,43.07,-89.38,Mr. Kimchi Modern Korean,43.074298,-89.379456,Korean Restaurant
+993,Cheyenne,41.15,-104.8,Capitol City Digital Cinemas,41.14771563324505,-104.80270027989332,Movie Theater
+994,Cheyenne,41.15,-104.8,Gold's Gym,41.147118,-104.801675,Gym / Fitness Center
+995,Cheyenne,41.15,-104.8,Muchmore Plumbing & Heating,41.15187,-104.799261,Construction & Landscaping
+996,Cheyenne,41.15,-104.8,Rail Yard Coffee Haus & Eatery,41.146907,-104.801437,Coffee Shop
